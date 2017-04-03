@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!-- 
+	Usage:
+
+	To localize the description, use the following format for the description element.
+	<description>
+	<text xml:lang="en">English App description goes here</text>
+	<text xml:lang="fr">French App description goes here</text>
+	<text xml:lang="ja">Japanese App description goes here</text>
+	</description>
+
+	To localize the name, use the following format for the name element.
+	<name>
+	<text xml:lang="en">English App name goes here</text>
+	<text xml:lang="fr">French App name goes here</text>
+	<text xml:lang="ja">Japanese App name goes here</text>
+	</name>
+-->
+<application xmlns="http://ns.adobe.com/air/application/23.0">
+  <id>apps.carpenter.ArenaDraftSimulator</id>
+  <versionNumber>1.0.0</versionNumber>
+  <filename>Arena Draft Simulator for Hearthstone</filename>
+  <description>An arena draft simulator for Hearthstone.</description>
+  <name>Arena Draft Simulator for Hearthstone</name>
+  <copyright/>
+  <initialWindow>
+    <content>Arena%20Draft%20Simulator%20for%20Hearthstone.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>false</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>cpu</renderMode>
+    <y>0</y>
+    <maximizable>false</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <icon>
+    <image16x16>icons/icon_16.png</image16x16>
+    <image32x32>icons/icon_32.png</image32x32>
+    <image48x48>icons/icon_48.png</image48x48>
+    <image128x128>icons/icon_128.png</image128x128>
+  </icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <supportedProfiles>desktop extendedDesktop </supportedProfiles>
+</application>

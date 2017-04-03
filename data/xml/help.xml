@@ -1,0 +1,165 @@
+<help>
+	<tab name="Class select" image="help1.jpg" about="Select the desired class from the options offered.">
+		<hoverMenu name="Select class" info="Click on one of the class names to start a draft. You can change the way classes are offered from the settings menu.">
+			<hoverElement x="390" y="160" w="420" h="150" />
+		</hoverMenu>
+		<hoverMenu name="Other screens" info="Use the buttons at the top to open the About, Drop rates, Card list, Help or Settings screens.">
+			<hoverElement x="995" y="1" w="204" h="24" />
+		</hoverMenu>
+	</tab>
+	<tab name="Card draft" image="help2.jpg" about="This screen allows you to simulate an arena draft.">
+		<hoverMenu name="Selected class" info="This is the selected class for the current draft.">
+			<hoverElement x="414" y="28" w="112" h="28" />
+		</hoverMenu>
+		<hoverMenu name="Offered cards" info="Click on one of the three cards offered to add it to your deck.">
+			<hoverElement x="16" y="94" w="892" h="380" />
+		</hoverMenu>
+		<hoverMenu name="Drafted deck" info="Drafted cards are added to your deck.">
+			<hoverElement x="992" y="30" w="189" h="604" />
+		</hoverMenu>
+		<hoverMenu name="Card count" info="This shows how many cards have been added to the deck out of the total of 30.">
+			<hoverElement x="1008" y="668" w="40" h="22" />
+		</hoverMenu>
+		<hoverMenu name="Copy to clipboard" info="Click this button to copy the current draft to your clipboard.">
+			<hoverElement x="1060" y="670" w="120" h="21" />
+		</hoverMenu>
+		
+		<hoverMenu name="Tier scores" info="Card tier scores are displayed underneath the cards.">
+			<hoverElement x="152" y="472" w="22" h="22" />
+			<hoverElement x="459" y="472" w="22" h="22" />
+			<hoverElement x="764" y="472" w="22" h="22" />
+		</hoverMenu>
+		<hoverMenu name="Help screen" info="Click on this button to open the help screen.">
+			<hoverElement x="1130" y="1" w="24" h="24" />
+		</hoverMenu>
+		<hoverMenu name="Start new draft" info="Click one of these buttons to abandon the current draft and go back to the class select screen.">
+			<hoverElement x="20" y="670" w="120" h="21" />
+			<hoverElement x="1175" y="1" w="24" h="24" />
+		</hoverMenu>
+	</tab>
+	<tab name="Settings" image="help3.jpg" about="This screen allows you to change the draft type, whether or not card duplicates are allowed and how class selection behaves.">
+		<hoverMenu name="Draft type" info="Choose between regular draft and tier draft (where cards are sorted based on tier score instead of rarity).">
+			<hoverElement x="330" y="172" w="378" h="76" />
+		</hoverMenu>
+		<hoverMenu name="Duplicates" info="No duplicates: a card will appear in a draft only once, Constructed: constructed rules apply (the draft can have up to two copies of the same common, rare or epic card, but only one copy of legendaries), Allow duplicates: a card will never be removed from the card pool no matter how many times it is drafted.">
+			<hoverElement x="330" y="266" w="580" h="72" />
+		</hoverMenu>
+		<hoverMenu name="Class selection" info="Normal selection: you are offered a selection of three classes at random, Pick class: all nine classes are available for selection, Random class: the class will be selected at random.">
+			<hoverElement x="330" y="356" w="580" h="72" />
+		</hoverMenu>
+		<hoverMenu name="Help screen" info="Click on this button to open the help screen.">
+			<hoverElement x="1130" y="1" w="24" h="24" />
+		</hoverMenu>
+		<hoverMenu name="Close settings" info="Use the close button underneath the application close button to exit the settings screen and return to the draft screen.">
+			<hoverElement x="1175" y="1" w="24" h="24" />
+		</hoverMenu>
+	</tab>
+	<tab name="Drop rates" image="help4.jpg" about="This screen allows you to change the tier scores and weights of cards (the weight represents how likely it is that a card will appear in the draft).">
+		<hoverMenu name="Column values" info="Use these text boxes to input desired values for the column beneath. ">
+			<hoverElement x="424" y="20" w="351" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Ranges" info="Use this textbox to set custom draft ranges that will get modified by the column values.">
+			<hoverElement x="845" y="20" w="180" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Update columns" info="Click this button to apply the values from the top columns to all the values beneath them. If a range is set, only the text boxes corresponding to the range get modified.">
+			<hoverElement x="794" y="50" w="120" h="28" />
+		</hoverMenu>
+		<hoverMenu name="Individual drop rates" info="Change the values in the text boxes to modify individual drop rates.">
+			<hoverElement x="424" y="80" w="351" h="602" />
+		</hoverMenu>
+		<hoverMenu name="Draft number" info="These numbers represent the number of the draft.">
+			<hoverElement x="398" y="80" w="22" h="602" />
+		</hoverMenu>
+		<hoverMenu name="Save/load" info="Use these buttons to save or load drop rates.">
+			<hoverElement x="1040" y="660" w="145" h="24" />
+		</hoverMenu>
+		<hoverMenu name="Help screen" info="Click on this button to open the help screen.">
+			<hoverElement x="1130" y="1" w="24" h="24" />
+		</hoverMenu>
+		<hoverMenu name="Close drop rates" info="Use the close button underneath the application close button to exit the drop rates screen and return to the draft screen.">
+			<hoverElement x="1175" y="1" w="24" h="24" />
+		</hoverMenu>
+	</tab>
+	<tab name="Card list" image="help5.jpg" about="This screen allows you to change the tier scores and weights of cards (the weight represents how likely it is that a card will appear in the draft).">
+		<hoverMenu name="Filter categories" info="Click on a filter category name to select all its filters or CTRL+click it to invert the selection of its filters.">
+			<hoverElement x="20" y="10" w="260" h="21" />
+			<hoverElement x="20" y="128" w="260" h="21" />
+			<hoverElement x="20" y="474" w="260" h="21" />
+			<hoverElement x="20" y="548" w="260" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Filter behavior" info="Click on a filter value to enable it if it is disabled or disable it if it is enabled. CTRL+click a filter value to select it and deselect all other filters of the same type.">
+			<hoverElement x="20" y="30" w="260" h="90" />
+			<hoverElement x="20" y="150" w="260" h="240" />
+			<hoverElement x="20" y="495" w="260" h="45" />
+			<hoverElement x="20" y="568" w="260" h="22" />
+		</hoverMenu>
+		<hoverMenu name="Special set filters" info="The buttons beneath the set filters can be clicked to select standard sets, wild only sets or three sets and an adventure at random (the reward set is not considered a full set).">
+			<hoverElement x="20" y="400" w="260" h="65" />
+		</hoverMenu>
+		<hoverMenu name="Value filters" info="The cost, weight and tier score filters can be used by adding values in their corresponding boxes. Some examples: &quot;2&quot; (value is equal to 2), &quot;3-&quot; (value is less or equal to 3), &quot;4+&quot; (value is greater or equal to 4), &quot;5-8&quot; (value is greater or equal to 5 and less or equal to 8).">
+			<hoverElement x="20" y="600" w="190" h="82" />
+		</hoverMenu>
+		<hoverMenu name="Reset filters" info="The reset button sets all the filters to their default values.">
+			<hoverElement x="252" y="630" w="21" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Filter cards" info="The filter button displays the cards that belong to the currently selected filters.">
+			<hoverElement x="252" y="660" w="21" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Input search term" info="Use the text input to enter a search term. Only cards whose names contain the search term will be shown when a search is performed.">
+			<hoverElement x="310" y="10" w="369" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Search cards" info="The search button has a similar function to the filter button, but it also checks that the filtered cards match the search query.">
+			<hoverElement x="689" y="10" w="21" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Reset card values" info="The reset columns resets the cards being currently displayed to their default values.">
+			<hoverElement x="312" y="41" w="120" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Modify multiple cards" info="The update columns button applies the values in the input fields to the right to all the currently selected cards.">
+			<hoverElement x="592" y="41" w="120" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Modify individual values" info="You can also change individual values of tier scores or weights.">
+			<hoverElement x="722" y="106" w="458" h="576" />
+		</hoverMenu>
+		<hoverMenu name="Save and load" info="The save and load buttons can be used to save and load tier lists.">
+			<hoverElement x="748" y="10" w="126" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Tier score icons" info="The tier score values appearing beneath these icons belong to the class represented by the icon.">
+			<hoverElement x="732" y="70" w="350" h="30" />
+		</hoverMenu>
+		<hoverMenu name="Scroll card list" info="The card list can be scrolled by using the scrollwheel or by dragging the scrollbar.">
+			<hoverElement x="1181" y="106" w="8" h="44" />
+		</hoverMenu>
+		<hoverMenu name="Help screen" info="Click on this button to open the help screen.">
+			<hoverElement x="1130" y="1" w="24" h="24" />
+		</hoverMenu>
+		<hoverMenu name="Close card list" info="Use the close button underneath the application close button to exit the card list and return to the draft screen.">
+			<hoverElement x="1175" y="1" w="24" h="24" />
+		</hoverMenu>
+	</tab>
+	<tab name="Save/load" image="help6.jpg" about="This screen is used to save and load tier lists and drop chances.">
+		<hoverMenu name="Input filename" info="Typing in the input field updates the file list to show the files that partially match the input with black text at the top and the ones that do not match it at the bottom with grey text.">
+			<hoverElement x="443" y="250" w="300" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Filename match" info="If a file matches the input exactly it is shown with green text for loading (to signify that the file exists)and red text for saving (to signify that the file already exists and will get overwritten).">
+			<hoverElement x="463" y="309" w="260" h="19" />
+		</hoverMenu>
+		<hoverMenu name="File click" info="Clicking on any of the filenames will put its value in the input field.">
+			<hoverElement x="463" y="348" w="260" h="20" />
+		</hoverMenu>
+		<hoverMenu name="Save/load" info="Pressing enter or clicking on the button to the right will attempt to save/load the file that has the same name as the input field.">
+			<hoverElement x="752" y="250" w="56" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Open folder" info="Click this button to open the folder where the drop rates/tier scores are stored.">
+			<hoverElement x="752" y="288" w="56" h="21" />
+		</hoverMenu>
+		<hoverMenu name="Screen action" info="The text at the top of the screen shows what action will be performed (quot;Save tier listquot; etc.).">
+			<hoverElement x="445" y="190" w="296" h="45" />
+		</hoverMenu>
+		<hoverMenu name="Help screen" info="Click on this button to open the help screen.">
+			<hoverElement x="1130" y="1" w="24" h="24" />
+		</hoverMenu>
+		<hoverMenu name="Close save/load" info="Use the close button underneath the application close button to exit the save/load screen and return to the previous screen.">
+			<hoverElement x="1175" y="1" w="24" h="24" />
+		</hoverMenu>
+	</tab>
+</help>

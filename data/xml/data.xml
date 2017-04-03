@@ -1,0 +1,1056 @@
+<cards>
+  <card name="Mind Control" rarity="Common" set="Basic" playerClass="Priest" cost="10" type="Spell" weight="5" tierScore="78"/>
+  <card name="Ironbark Protector" rarity="Common" set="Basic" playerClass="Druid" cost="8" type="Minion" weight="5" tierScore="73"/>
+  <card name="Flamestrike" rarity="Common" set="Basic" playerClass="Mage" cost="7" type="Spell" weight="5" tierScore="114"/>
+  <card name="Sprint" rarity="Common" set="Basic" playerClass="Rogue" cost="7" type="Spell" weight="5" tierScore="57"/>
+  <card name="Core Hound" rarity="Common" set="Basic" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="30, 31, 30, 30, 30, 30, 30, 30, 30"/>
+  <card name="Guardian of Kings" rarity="Common" set="Basic" playerClass="Paladin" cost="7" type="Minion" weight="5" tierScore="55"/>
+  <card name="Stormwind Champion" rarity="Common" set="Basic" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="72, 68, 72, 78, 72, 72, 78, 73, 72"/>
+  <card name="War Golem" rarity="Common" set="Basic" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="49, 48, 49, 49, 52, 49, 49, 46, 49"/>
+  <card name="Starfire" rarity="Common" set="Basic" playerClass="Druid" cost="6" type="Spell" weight="5" tierScore="72"/>
+  <card name="Vanish" rarity="Common" set="Basic" playerClass="Rogue" cost="6" type="Spell" weight="5" tierScore="11"/>
+  <card name="Archmage" rarity="Common" set="Basic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="53, 51, 53, 52, 53, 52, 53, 52, 52"/>
+  <card name="Boulderfist Ogre" rarity="Common" set="Basic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="67, 66, 67, 67, 67, 67, 67, 64, 67"/>
+  <card name="Dread Infernal" rarity="Common" set="Basic" playerClass="Warlock" cost="6" type="Minion" weight="5" tierScore="90"/>
+  <card name="Fire Elemental" rarity="Common" set="Basic" playerClass="Shaman" cost="6" type="Minion" weight="5" tierScore="119"/>
+  <card name="Lord of the Arena" rarity="Common" set="Basic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="49, 46, 49, 49, 49, 52, 49, 49, 49"/>
+  <card name="Reckless Rocketeer" rarity="Common" set="Basic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="49, 64, 49, 49, 43, 51, 49, 49, 49"/>
+  <card name="Arcanite Reaper" rarity="Common" set="Basic" playerClass="Warrior" cost="5" type="Weapon" weight="5" tierScore="79"/>
+  <card name="Assassin's Blade" rarity="Common" set="Basic" playerClass="Rogue" cost="5" type="Weapon" weight="5" tierScore="47"/>
+  <card name="Assassinate" rarity="Common" set="Basic" playerClass="Rogue" cost="5" type="Spell" weight="5" tierScore="79"/>
+  <card name="Bloodlust" rarity="Common" set="Basic" playerClass="Shaman" cost="5" type="Spell" weight="5" tierScore="47"/>
+  <card name="Holy Nova" rarity="Common" set="Basic" playerClass="Priest" cost="5" type="Spell" weight="5" tierScore="91"/>
+  <card name="Booty Bay Bodyguard" rarity="Common" set="Basic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="39, 38, 39, 39, 39, 41, 39, 41, 39"/>
+  <card name="Darkscale Healer" rarity="Common" set="Basic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="60, 56, 60, 60, 63, 63, 60, 63, 60"/>
+  <card name="Frostwolf Warlord" rarity="Common" set="Basic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="62, 59, 62, 66, 61, 62, 66, 65, 62"/>
+  <card name="Gurubashi Berserker" rarity="Common" set="Basic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="46, 44, 51, 46, 52, 46, 46, 46, 51"/>
+  <card name="Nightblade" rarity="Common" set="Basic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="43, 54, 43, 43, 43, 44, 43, 43, 43"/>
+  <card name="Starving Buzzard" rarity="Common" set="Basic" playerClass="Hunter" cost="5" type="Minion" weight="0" tierScore="0"/>
+  <card name="Stormpike Commando" rarity="Common" set="Basic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="57, 57, 57, 57, 57, 57, 57, 57, 57"/>
+  <card name="Tundra Rhino" rarity="Common" set="Basic" playerClass="Hunter" cost="5" type="Minion" weight="5" tierScore="51"/>
+  <card name="Truesilver Champion" rarity="Common" set="Basic" playerClass="Paladin" cost="4" type="Weapon" weight="5" tierScore="99"/>
+  <card name="Blessing of Kings" rarity="Common" set="Basic" playerClass="Paladin" cost="4" type="Spell" weight="5" tierScore="80"/>
+  <card name="Consecration" rarity="Common" set="Basic" playerClass="Paladin" cost="4" type="Spell" weight="5" tierScore="86"/>
+  <card name="Fireball" rarity="Common" set="Basic" playerClass="Mage" cost="4" type="Spell" weight="5" tierScore="92"/>
+  <card name="Hammer of Wrath" rarity="Common" set="Basic" playerClass="Paladin" cost="4" type="Spell" weight="5" tierScore="66"/>
+  <card name="Hellfire" rarity="Common" set="Basic" playerClass="Warlock" cost="4" type="Spell" weight="5" tierScore="62"/>
+  <card name="Multi-Shot" rarity="Common" set="Basic" playerClass="Hunter" cost="4" type="Spell" weight="5" tierScore="58"/>
+  <card name="Polymorph" rarity="Common" set="Basic" playerClass="Mage" cost="4" type="Spell" weight="5" tierScore="73"/>
+  <card name="Swipe" rarity="Common" set="Basic" playerClass="Druid" cost="4" type="Spell" weight="5" tierScore="98"/>
+  <card name="Chillwind Yeti" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="67, 67, 67, 66, 67, 67, 67, 67, 67"/>
+  <card name="Dragonling Mechanic" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="50, 50, 50, 50, 50, 50, 50, 50, 50"/>
+  <card name="Gnomish Inventor" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="60, 60, 60, 60, 61, 60, 60, 50, 60"/>
+  <card name="Houndmaster" rarity="Common" set="Basic" playerClass="Hunter" cost="4" type="Minion" weight="5" tierScore="73"/>
+  <card name="Kor'kron Elite" rarity="Common" set="Basic" playerClass="Warrior" cost="4" type="Minion" weight="5" tierScore="73"/>
+  <card name="Oasis Snapjaw" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="52, 53, 50, 50, 50, 50, 50, 50, 50"/>
+  <card name="Ogre Magi" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="53, 51, 51, 51, 51, 53, 52, 51, 51"/>
+  <card name="Sen'jin Shieldmasta" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="68, 68, 68, 68, 68, 71, 68, 71, 68"/>
+  <card name="Stormwind Knight" rarity="Common" set="Basic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="58, 58, 58, 58, 58, 58, 58, 58, 58"/>
+  <card name="Water Elemental" rarity="Common" set="Basic" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="80"/>
+  <card name="Windspeaker" rarity="Common" set="Basic" playerClass="Shaman" cost="4" type="Minion" weight="0" tierScore="0"/>
+  <card name="Animal Companion" rarity="Common" set="Basic" playerClass="Hunter" cost="3" type="Spell" weight="5" tierScore="90"/>
+  <card name="Arcane Intellect" rarity="Common" set="Basic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="61"/>
+  <card name="Drain Life" rarity="Common" set="Basic" playerClass="Warlock" cost="3" type="Spell" weight="5" tierScore="43"/>
+  <card name="Fan of Knives" rarity="Common" set="Basic" playerClass="Rogue" cost="3" type="Spell" weight="5" tierScore="69"/>
+  <card name="Frost Nova" rarity="Common" set="Basic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="35"/>
+  <card name="Healing Touch" rarity="Common" set="Basic" playerClass="Druid" cost="3" type="Spell" weight="5" tierScore="21"/>
+  <card name="Hex" rarity="Common" set="Basic" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="91"/>
+  <card name="Kill Command" rarity="Common" set="Basic" playerClass="Hunter" cost="3" type="Spell" weight="5" tierScore="73"/>
+  <card name="Savage Roar" rarity="Common" set="Basic" playerClass="Druid" cost="3" type="Spell" weight="5" tierScore="51"/>
+  <card name="Shadow Bolt" rarity="Common" set="Basic" playerClass="Warlock" cost="3" type="Spell" weight="5" tierScore="64"/>
+  <card name="Shadow Word: Death" rarity="Common" set="Basic" playerClass="Priest" cost="3" type="Spell" weight="5" tierScore="93"/>
+  <card name="Shield Block" rarity="Common" set="Basic" playerClass="Warrior" cost="3" type="Spell" weight="5" tierScore="40"/>
+  <card name="Dalaran Mage" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="17, 14, 14, 14, 14, 17, 15, 14, 14"/>
+  <card name="Ironforge Rifleman" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="47, 48, 47, 47, 48, 47, 48, 48, 47"/>
+  <card name="Ironfur Grizzly" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="54, 54, 51, 51, 51, 53, 51, 53, 51"/>
+  <card name="Magma Rager" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="16, 16, 16, 16, 12, 16, 16, 16, 15"/>
+  <card name="Raid Leader" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="40, 40, 40, 45, 40, 40, 44, 46, 40"/>
+  <card name="Razorfen Hunter" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="60, 60, 58, 58, 58, 58, 58, 58, 58"/>
+  <card name="Shattered Sun Cleric" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="68, 68, 68, 70, 68, 68, 69, 73, 68"/>
+  <card name="Silverback Patriarch" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="18, 20, 17, 17, 17, 21, 17, 21, 17"/>
+  <card name="Warsong Commander" rarity="Common" set="Basic" playerClass="Warrior" cost="3" type="Minion" weight="0" tierScore="0"/>
+  <card name="Wolfrider" rarity="Common" set="Basic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="53, 57, 53, 53, 47, 54, 53, 53, 53"/>
+  <card name="Fiery War Axe" rarity="Common" set="Basic" playerClass="Warrior" cost="2" type="Weapon" weight="5" tierScore="104"/>
+  <card name="Arcane Explosion" rarity="Common" set="Basic" playerClass="Mage" cost="2" type="Spell" weight="5" tierScore="52"/>
+  <card name="Cleave" rarity="Common" set="Basic" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="67"/>
+  <card name="Divine Spirit" rarity="Common" set="Basic" playerClass="Priest" cost="2" type="Spell" weight="5" tierScore="38"/>
+  <card name="Execute" rarity="Common" set="Basic" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="72"/>
+  <card name="Frostbolt" rarity="Common" set="Basic" playerClass="Mage" cost="2" type="Spell" weight="5" tierScore="79"/>
+  <card name="Heroic Strike" rarity="Common" set="Basic" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="59"/>
+  <card name="Holy Light" rarity="Common" set="Basic" playerClass="Paladin" cost="2" type="Spell" weight="5" tierScore="18"/>
+  <card name="Mark of the Wild" rarity="Common" set="Basic" playerClass="Druid" cost="2" type="Spell" weight="5" tierScore="60"/>
+  <card name="Mind Blast" rarity="Common" set="Basic" playerClass="Priest" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Rockbiter Weapon" rarity="Common" set="Basic" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="64"/>
+  <card name="Sap" rarity="Common" set="Basic" playerClass="Rogue" cost="2" type="Spell" weight="5" tierScore="83"/>
+  <card name="Shadow Word: Pain" rarity="Common" set="Basic" playerClass="Priest" cost="2" type="Spell" weight="5" tierScore="72"/>
+  <card name="Shiv" rarity="Common" set="Basic" playerClass="Rogue" cost="2" type="Spell" weight="5" tierScore="56"/>
+  <card name="Wild Growth" rarity="Common" set="Basic" playerClass="Druid" cost="2" type="Spell" weight="5" tierScore="57"/>
+  <card name="Windfury" rarity="Common" set="Basic" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="23"/>
+  <card name="Acidic Swamp Ooze" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="58, 58, 58, 58, 58, 58, 58, 58, 58"/>
+  <card name="Bloodfen Raptor" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="56, 56, 54, 54, 54, 54, 54, 54, 54"/>
+  <card name="Bluegill Warrior" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="50, 52, 50, 50, 49, 50, 50, 52, 50"/>
+  <card name="Flametongue Totem" rarity="Common" set="Basic" playerClass="Shaman" cost="2" type="Minion" weight="5" tierScore="84"/>
+  <card name="Frostwolf Grunt" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="36, 33, 36, 36, 36, 38, 36, 38, 36"/>
+  <card name="Kobold Geomancer" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="45, 44, 44, 44, 44, 45, 53, 45, 44"/>
+  <card name="Murloc Tidehunter" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="58, 60, 58, 58, 56, 58, 58, 58, 58"/>
+  <card name="Novice Engineer" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="52, 52, 52, 52, 52, 52, 52, 46, 52"/>
+  <card name="River Crocolisk" rarity="Common" set="Basic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="57, 58, 56, 56, 56, 56, 56, 56, 56"/>
+  <card name="Succubus" rarity="Common" set="Basic" playerClass="Warlock" cost="2" type="Minion" weight="0" tierScore="0"/>
+  <card name="Light's Justice" rarity="Common" set="Basic" playerClass="Paladin" cost="1" type="Weapon" weight="5" tierScore="59"/>
+  <card name="Arcane Missiles" rarity="Common" set="Basic" playerClass="Mage" cost="1" type="Spell" weight="5" tierScore="51"/>
+  <card name="Arcane Shot" rarity="Common" set="Basic" playerClass="Hunter" cost="1" type="Spell" weight="5" tierScore="63"/>
+  <card name="Blessing of Might" rarity="Common" set="Basic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="53"/>
+  <card name="Charge" rarity="Common" set="Basic" playerClass="Warrior" cost="1" type="Spell" weight="0" tierScore="0"/>
+  <card name="Claw" rarity="Common" set="Basic" playerClass="Druid" cost="1" type="Spell" weight="5" tierScore="54"/>
+  <card name="Corruption" rarity="Common" set="Basic" playerClass="Warlock" cost="1" type="Spell" weight="5" tierScore="36"/>
+  <card name="Deadly Poison" rarity="Common" set="Basic" playerClass="Rogue" cost="1" type="Spell" weight="5" tierScore="68"/>
+  <card name="Frost Shock" rarity="Common" set="Basic" playerClass="Shaman" cost="1" type="Spell" weight="5" tierScore="42"/>
+  <card name="Hand of Protection" rarity="Common" set="Basic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="42"/>
+  <card name="Holy Smite" rarity="Common" set="Basic" playerClass="Priest" cost="1" type="Spell" weight="5" tierScore="63"/>
+  <card name="Humility" rarity="Common" set="Basic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="51"/>
+  <card name="Hunter's Mark" rarity="Common" set="Basic" playerClass="Hunter" cost="1" type="Spell" weight="5" tierScore="66"/>
+  <card name="Mind Vision" rarity="Common" set="Basic" playerClass="Priest" cost="1" type="Spell" weight="5" tierScore="42"/>
+  <card name="Mirror Image" rarity="Common" set="Basic" playerClass="Mage" cost="1" type="Spell" weight="5" tierScore="45"/>
+  <card name="Mortal Coil" rarity="Common" set="Basic" playerClass="Warlock" cost="1" type="Spell" weight="5" tierScore="84"/>
+  <card name="Power Word: Shield" rarity="Common" set="Basic" playerClass="Priest" cost="1" type="Spell" weight="5" tierScore="91"/>
+  <card name="Sinister Strike" rarity="Common" set="Basic" playerClass="Rogue" cost="1" type="Spell" weight="5" tierScore="19"/>
+  <card name="Soulfire" rarity="Common" set="Basic" playerClass="Warlock" cost="1" type="Spell" weight="5" tierScore="70"/>
+  <card name="Tracking" rarity="Common" set="Basic" playerClass="Hunter" cost="1" type="Spell" weight="5" tierScore="61"/>
+  <card name="Whirlwind" rarity="Common" set="Basic" playerClass="Warrior" cost="1" type="Spell" weight="5" tierScore="45"/>
+  <card name="Elven Archer" rarity="Common" set="Basic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="60, 63, 58, 60, 60, 60, 63, 65, 60"/>
+  <card name="Goldshire Footman" rarity="Common" set="Basic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="35, 36, 35, 35, 35, 37, 35, 37, 35"/>
+  <card name="Grimscale Oracle" rarity="Common" set="Basic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="6, 7, 6, 7, 6, 7, 6, 6, 6"/>
+  <card name="Murloc Raider" rarity="Common" set="Basic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="41, 42, 41, 41, 41, 41, 41, 41, 41"/>
+  <card name="Northshire Cleric" rarity="Common" set="Basic" playerClass="Priest" cost="1" type="Minion" weight="5" tierScore="87"/>
+  <card name="Stonetusk Boar" rarity="Common" set="Basic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="43, 44, 41, 41, 39, 41, 41, 42, 41"/>
+  <card name="Timber Wolf" rarity="Common" set="Basic" playerClass="Hunter" cost="1" type="Minion" weight="0" tierScore="0"/>
+  <card name="Voidwalker" rarity="Common" set="Basic" playerClass="Warlock" cost="1" type="Minion" weight="5" tierScore="73"/>
+  <card name="Voodoo Doctor" rarity="Common" set="Basic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="49, 49, 49, 49, 50, 53, 49, 56, 49"/>
+  <card name="Ancestral Healing" rarity="Common" set="Basic" playerClass="Shaman" cost="0" type="Spell" weight="0" tierScore="0"/>
+  <card name="Backstab" rarity="Common" set="Basic" playerClass="Rogue" cost="0" type="Spell" weight="5" tierScore="88"/>
+  <card name="Innervate" rarity="Common" set="Basic" playerClass="Druid" cost="0" type="Spell" weight="5" tierScore="69"/>
+  <card name="Moonfire" rarity="Common" set="Basic" playerClass="Druid" cost="0" type="Spell" weight="5" tierScore="50"/>
+  <card name="Sacrificial Pact" rarity="Common" set="Basic" playerClass="Warlock" cost="0" type="Spell" weight="0" tierScore="0"/>
+  <card name="Totemic Might" rarity="Common" set="Basic" playerClass="Shaman" cost="0" type="Spell" weight="0" tierScore="0"/>
+  <card name="Molten Giant" rarity="Epic" set="Classic" playerClass="Neutral" cost="25" type="Minion" weight="5" tierScore="37, 37, 37, 37, 34, 51, 37, 46, 43"/>
+  <card name="Mountain Giant" rarity="Epic" set="Classic" playerClass="Neutral" cost="12" type="Minion" weight="5" tierScore="29, 29, 29, 29, 29, 29, 29, 31, 29"/>
+  <card name="Pyroblast" rarity="Epic" set="Classic" playerClass="Mage" cost="10" type="Spell" weight="5" tierScore="68"/>
+  <card name="Deathwing" rarity="Legendary" set="Classic" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="111, 111, 111, 111, 111, 111, 111, 97, 111"/>
+  <card name="Sea Giant" rarity="Epic" set="Classic" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="82, 81, 82, 84, 82, 81, 84, 84, 82"/>
+  <card name="Alexstrasza" rarity="Legendary" set="Classic" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="70, 61, 70, 70, 70, 71, 70, 70, 71"/>
+  <card name="Cenarius" rarity="Legendary" set="Classic" playerClass="Druid" cost="9" type="Minion" weight="5" tierScore="90"/>
+  <card name="King Krush" rarity="Legendary" set="Classic" playerClass="Hunter" cost="9" type="Minion" weight="5" tierScore="85"/>
+  <card name="Lord Jaraxxus" rarity="Legendary" set="Classic" playerClass="Warlock" cost="9" type="Minion" weight="5" tierScore="67"/>
+  <card name="Malygos" rarity="Legendary" set="Classic" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="51, 43, 51, 51, 52, 51, 51, 51, 51"/>
+  <card name="Nozdormu" rarity="Legendary" set="Classic" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="38, 35, 38, 38, 38, 38, 38, 32, 38"/>
+  <card name="Onyxia" rarity="Legendary" set="Classic" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="94, 90, 94, 94, 94, 94, 94, 90, 94"/>
+  <card name="Ysera" rarity="Legendary" set="Classic" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="76, 67, 76, 76, 76, 76, 76, 67, 76"/>
+  <card name="Lay on Hands" rarity="Epic" set="Classic" playerClass="Paladin" cost="8" type="Spell" weight="5" tierScore="57"/>
+  <card name="Twisting Nether" rarity="Epic" set="Classic" playerClass="Warlock" cost="8" type="Spell" weight="5" tierScore="53"/>
+  <card name="Al'Akir the Windlord" rarity="Legendary" set="Classic" playerClass="Shaman" cost="8" type="Minion" weight="5" tierScore="83"/>
+  <card name="Grommash Hellscream" rarity="Legendary" set="Classic" playerClass="Warrior" cost="8" type="Minion" weight="5" tierScore="85"/>
+  <card name="Gruul" rarity="Legendary" set="Classic" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="60, 55, 60, 60, 60, 60, 60, 55, 60"/>
+  <card name="Ragnaros the Firelord" rarity="Legendary" set="Classic" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="95, 95, 97, 95, 95, 95, 95, 95, 95"/>
+  <card name="Tirion Fordring" rarity="Legendary" set="Classic" playerClass="Paladin" cost="8" type="Minion" weight="5" tierScore="120"/>
+  <card name="Gladiator's Longbow" rarity="Epic" set="Classic" playerClass="Hunter" cost="7" type="Weapon" weight="5" tierScore="79"/>
+  <card name="Gorehowl" rarity="Epic" set="Classic" playerClass="Warrior" cost="7" type="Weapon" weight="5" tierScore="88"/>
+  <card name="Ancient of Lore" rarity="Epic" set="Classic" playerClass="Druid" cost="7" type="Minion" weight="5" tierScore="60"/>
+  <card name="Ancient of War" rarity="Epic" set="Classic" playerClass="Druid" cost="7" type="Minion" weight="5" tierScore="101"/>
+  <card name="Archmage Antonidas" rarity="Legendary" set="Classic" playerClass="Mage" cost="7" type="Minion" weight="5" tierScore="78"/>
+  <card name="Baron Geddon" rarity="Legendary" set="Classic" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="89, 89, 89, 86, 89, 88, 86, 88, 90"/>
+  <card name="Prophet Velen" rarity="Legendary" set="Classic" playerClass="Priest" cost="7" type="Minion" weight="5" tierScore="63"/>
+  <card name="Ravenholdt Assassin" rarity="Rare" set="Classic" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="46, 50, 46, 46, 46, 46, 46, 42, 46"/>
+  <card name="Avenging Wrath" rarity="Epic" set="Classic" playerClass="Paladin" cost="6" type="Spell" weight="5" tierScore="56"/>
+  <card name="Blizzard" rarity="Rare" set="Classic" playerClass="Mage" cost="6" type="Spell" weight="5" tierScore="78"/>
+  <card name="Holy Fire" rarity="Rare" set="Classic" playerClass="Priest" cost="6" type="Spell" weight="5" tierScore="59"/>
+  <card name="Siphon Soul" rarity="Rare" set="Classic" playerClass="Warlock" cost="6" type="Spell" weight="5" tierScore="89"/>
+  <card name="Argent Commander" rarity="Rare" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="80, 81, 80, 80, 77, 80, 80, 80, 80"/>
+  <card name="Cabal Shadow Priest" rarity="Epic" set="Classic" playerClass="Priest" cost="6" type="Minion" weight="5" tierScore="115"/>
+  <card name="Cairne Bloodhoof" rarity="Legendary" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="80, 80, 80, 80, 82, 80, 80, 77, 80"/>
+  <card name="Frost Elemental" rarity="Common" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="68, 69, 69, 68, 68, 70, 68, 68, 68"/>
+  <card name="Gadgetzan Auctioneer" rarity="Rare" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="40, 40, 40, 40, 40, 42, 40, 33, 40"/>
+  <card name="Hogger" rarity="Legendary" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="77, 77, 77, 77, 77, 84, 77, 77, 77"/>
+  <card name="Illidan Stormrage" rarity="Legendary" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="66, 66, 66, 66, 66, 73, 66, 73, 66"/>
+  <card name="Kidnapper" rarity="Epic" set="Classic" playerClass="Rogue" cost="6" type="Minion" weight="5" tierScore="69"/>
+  <card name="Priestess of Elune" rarity="Common" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="35, 30, 35, 35, 35, 41, 35, 41, 36"/>
+  <card name="Savannah Highmane" rarity="Rare" set="Classic" playerClass="Hunter" cost="6" type="Minion" weight="5" tierScore="106"/>
+  <card name="Sunwalker" rarity="Rare" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="84, 80, 84, 84, 84, 87, 84, 85, 84"/>
+  <card name="Sylvanas Windrunner" rarity="Legendary" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="93, 93, 93, 93, 93, 93, 93, 87, 93"/>
+  <card name="Temple Enforcer" rarity="Common" set="Classic" playerClass="Priest" cost="6" type="Minion" weight="5" tierScore="85"/>
+  <card name="The Beast" rarity="Legendary" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="46, 52, 45, 45, 45, 46, 45, 45, 45"/>
+  <card name="The Black Knight" rarity="Legendary" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="80, 80, 80, 80, 80, 80, 80, 80, 80"/>
+  <card name="Windfury Harpy" rarity="Common" set="Classic" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="30, 30, 30, 30, 30, 30, 30, 30, 30"/>
+  <card name="Doomhammer" rarity="Epic" set="Classic" playerClass="Shaman" cost="5" type="Weapon" weight="5" tierScore="66"/>
+  <card name="Bane of Doom" rarity="Epic" set="Classic" playerClass="Warlock" cost="5" type="Spell" weight="5" tierScore="88"/>
+  <card name="Blessed Champion" rarity="Rare" set="Classic" playerClass="Paladin" cost="5" type="Spell" weight="5" tierScore="26"/>
+  <card name="Brawl" rarity="Epic" set="Classic" playerClass="Warrior" cost="5" type="Spell" weight="5" tierScore="56"/>
+  <card name="Explosive Shot" rarity="Rare" set="Classic" playerClass="Hunter" cost="5" type="Spell" weight="5" tierScore="80"/>
+  <card name="Force of Nature" rarity="Epic" set="Classic" playerClass="Druid" cost="5" type="Spell" weight="5" tierScore="73"/>
+  <card name="Holy Wrath" rarity="Rare" set="Classic" playerClass="Paladin" cost="5" type="Spell" weight="5" tierScore="45"/>
+  <card name="Nourish" rarity="Rare" set="Classic" playerClass="Druid" cost="5" type="Spell" weight="5" tierScore="54"/>
+  <card name="Starfall" rarity="Rare" set="Classic" playerClass="Druid" cost="5" type="Spell" weight="5" tierScore="68"/>
+  <card name="Abomination" rarity="Rare" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="42, 44, 42, 38, 42, 42, 38, 37, 42"/>
+  <card name="Azure Drake" rarity="Rare" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="74, 72, 74, 74, 74, 74, 74, 68, 74"/>
+  <card name="Big Game Hunter" rarity="Epic" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="60, 59, 59, 59, 59, 59, 59, 59, 59"/>
+  <card name="Captain Greenskin" rarity="Legendary" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="38, 43, 38, 57, 38, 63, 42, 38, 64"/>
+  <card name="Doomguard" rarity="Rare" set="Classic" playerClass="Warlock" cost="5" type="Minion" weight="5" tierScore="81"/>
+  <card name="Druid of the Claw" rarity="Common" set="Classic" playerClass="Druid" cost="5" type="Minion" weight="5" tierScore="87"/>
+  <card name="Earth Elemental" rarity="Epic" set="Classic" playerClass="Shaman" cost="5" type="Minion" weight="5" tierScore="90"/>
+  <card name="Faceless Manipulator" rarity="Epic" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="57, 57, 57, 57, 57, 57, 57, 57, 57"/>
+  <card name="Fen Creeper" rarity="Common" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="60, 57, 60, 60, 60, 64, 60, 64, 60"/>
+  <card name="Harrison Jones" rarity="Legendary" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="58, 58, 58, 58, 58, 58, 58, 58, 58"/>
+  <card name="Leeroy Jenkins" rarity="Legendary" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="48, 70, 48, 48, 47, 56, 48, 48, 48"/>
+  <card name="Silver Hand Knight" rarity="Common" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="70, 70, 70, 71, 68, 70, 70, 70, 70"/>
+  <card name="Spiteful Smith" rarity="Common" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="57, 59, 57, 64, 57, 68, 59, 57, 64"/>
+  <card name="Stampeding Kodo" rarity="Rare" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="77, 77, 76, 76, 76, 76, 76, 76, 76"/>
+  <card name="Stranglethorn Tiger" rarity="Common" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="67, 67, 65, 65, 67, 65, 65, 65, 65"/>
+  <card name="Venture Co. Mercenary" rarity="Common" set="Classic" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="53, 56, 54, 53, 53, 53, 53, 48, 53"/>
+  <card name="Bite" rarity="Rare" set="Classic" playerClass="Druid" cost="4" type="Spell" weight="5" tierScore="46"/>
+  <card name="Blade Flurry" rarity="Rare" set="Classic" playerClass="Rogue" cost="4" type="Spell" weight="5" tierScore="26"/>
+  <card name="Cone of Cold" rarity="Common" set="Classic" playerClass="Mage" cost="4" type="Spell" weight="5" tierScore="47"/>
+  <card name="Mass Dispel" rarity="Rare" set="Classic" playerClass="Priest" cost="4" type="Spell" weight="5" tierScore="40"/>
+  <card name="Mindgames" rarity="Epic" set="Classic" playerClass="Priest" cost="4" type="Spell" weight="5" tierScore="30"/>
+  <card name="Mortal Strike" rarity="Rare" set="Classic" playerClass="Warrior" cost="4" type="Spell" weight="5" tierScore="58"/>
+  <card name="Shadow Madness" rarity="Rare" set="Classic" playerClass="Priest" cost="4" type="Spell" weight="5" tierScore="73"/>
+  <card name="Shadowflame" rarity="Rare" set="Classic" playerClass="Warlock" cost="4" type="Spell" weight="5" tierScore="78"/>
+  <card name="Soul of the Forest" rarity="Common" set="Classic" playerClass="Druid" cost="4" type="Spell" weight="0" tierScore="0"/>
+  <card name="Ancient Brewmaster" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+  <card name="Ancient Mage" rarity="Rare" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="31, 31, 31, 31, 31, 31, 34, 31, 31"/>
+  <card name="Arathi Weaponsmith" rarity="Common" set="Classic" playerClass="Warrior" cost="4" type="Minion" weight="5" tierScore="96"/>
+  <card name="Auchenai Soulpriest" rarity="Rare" set="Classic" playerClass="Priest" cost="4" type="Minion" weight="5" tierScore="80"/>
+  <card name="Cult Master" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="60, 60, 60, 66, 56, 61, 63, 55, 60"/>
+  <card name="Dark Iron Dwarf" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="76, 76, 76, 77, 74, 76, 77, 79, 76"/>
+  <card name="Defender of Argus" rarity="Rare" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="71, 67, 71, 72, 71, 73, 72, 77, 71"/>
+  <card name="Dread Corsair" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="35, 39, 35, 44, 35, 51, 39, 35, 49"/>
+  <card name="Ethereal Arcanist" rarity="Rare" set="Classic" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="18"/>
+  <card name="Keeper of the Grove" rarity="Rare" set="Classic" playerClass="Druid" cost="4" type="Minion" weight="5" tierScore="54"/>
+  <card name="Lightspawn" rarity="Common" set="Classic" playerClass="Priest" cost="4" type="Minion" weight="5" tierScore="65"/>
+  <card name="Master of Disguise" rarity="Rare" set="Classic" playerClass="Rogue" cost="4" type="Minion" weight="5" tierScore="51"/>
+  <card name="Mogu'shan Warden" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="42, 41, 42, 42, 42, 42, 44, 42, 42"/>
+  <card name="Pit Lord" rarity="Epic" set="Classic" playerClass="Warlock" cost="4" type="Minion" weight="5" tierScore="54"/>
+  <card name="Silvermoon Guardian" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="53, 53, 53, 53, 51, 53, 53, 53, 53"/>
+  <card name="Spellbreaker" rarity="Common" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="63, 63, 63, 63, 63, 63, 63, 63, 63"/>
+  <card name="Summoning Portal" rarity="Common" set="Classic" playerClass="Warlock" cost="4" type="Minion" weight="5" tierScore="13"/>
+  <card name="Twilight Drake" rarity="Rare" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="63, 63, 63, 62, 63, 63, 63, 63, 63"/>
+  <card name="Violet Teacher" rarity="Rare" set="Classic" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="66, 65, 65, 64, 65, 66, 64, 64, 64"/>
+  <card name="Eaglehorn Bow" rarity="Rare" set="Classic" playerClass="Hunter" cost="3" type="Weapon" weight="5" tierScore="84"/>
+  <card name="Perdition's Blade" rarity="Rare" set="Classic" playerClass="Rogue" cost="3" type="Weapon" weight="5" tierScore="60"/>
+  <card name="Sword of Justice" rarity="Epic" set="Classic" playerClass="Paladin" cost="3" type="Weapon" weight="5" tierScore="67"/>
+  <card name="Counterspell" rarity="Rare" set="Classic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="48"/>
+  <card name="Deadly Shot" rarity="Common" set="Classic" playerClass="Hunter" cost="3" type="Spell" weight="5" tierScore="76"/>
+  <card name="Divine Favor" rarity="Rare" set="Classic" playerClass="Paladin" cost="3" type="Spell" weight="5" tierScore="42"/>
+  <card name="Far Sight" rarity="Epic" set="Classic" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="43"/>
+  <card name="Feral Spirit" rarity="Rare" set="Classic" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="79"/>
+  <card name="Headcrack" rarity="Rare" set="Classic" playerClass="Rogue" cost="3" type="Spell" weight="5" tierScore="6"/>
+  <card name="Ice Barrier" rarity="Common" set="Classic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="22"/>
+  <card name="Ice Block" rarity="Epic" set="Classic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="18"/>
+  <card name="Lava Burst" rarity="Rare" set="Classic" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="58"/>
+  <card name="Lightning Storm" rarity="Rare" set="Classic" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="90"/>
+  <card name="Mark of Nature" rarity="Common" set="Classic" playerClass="Druid" cost="3" type="Spell" weight="0" tierScore="0"/>
+  <card name="Mirror Entity" rarity="Common" set="Classic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="60"/>
+  <card name="Sense Demons" rarity="Common" set="Classic" playerClass="Warlock" cost="3" type="Spell" weight="0" tierScore="0"/>
+  <card name="Shadowform" rarity="Epic" set="Classic" playerClass="Priest" cost="3" type="Spell" weight="5" tierScore="48"/>
+  <card name="Spellbender" rarity="Epic" set="Classic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="41"/>
+  <card name="Thoughtsteal" rarity="Common" set="Classic" playerClass="Priest" cost="3" type="Spell" weight="5" tierScore="55"/>
+  <card name="Unleash the Hounds" rarity="Common" set="Classic" playerClass="Hunter" cost="3" type="Spell" weight="5" tierScore="87"/>
+  <card name="Vaporize" rarity="Rare" set="Classic" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="50"/>
+  <card name="Acolyte of Pain" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="59, 59, 63, 60, 60, 59, 59, 48, 66"/>
+  <card name="Alarm-o-Bot" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="2, 1, 1, 1, 1, 1, 1, 1, 1"/>
+  <card name="Aldor Peacekeeper" rarity="Rare" set="Classic" playerClass="Paladin" cost="3" type="Minion" weight="5" tierScore="97"/>
+  <card name="Arcane Golem" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="16, 16, 16, 16, 16, 16, 16, 16, 16"/>
+  <card name="Blood Knight" rarity="Epic" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="67, 67, 67, 68, 67, 67, 67, 67, 67"/>
+  <card name="Coldlight Oracle" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="20, 25, 20, 20, 17, 20, 20, 13, 20"/>
+  <card name="Coldlight Seer" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="12, 12, 12, 12, 12, 12, 12, 12, 12"/>
+  <card name="Demolisher" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+  <card name="Earthen Ring Farseer" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="65, 62, 65, 65, 68, 69, 65, 69, 65"/>
+  <card name="Edwin VanCleef" rarity="Legendary" set="Classic" playerClass="Rogue" cost="3" type="Minion" weight="5" tierScore="77"/>
+  <card name="Emperor Cobra" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="64, 63, 61, 61, 61, 61, 61, 61, 61"/>
+  <card name="Felguard" rarity="Rare" set="Classic" playerClass="Warlock" cost="3" type="Minion" weight="5" tierScore="46"/>
+  <card name="Flesheating Ghoul" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="51, 51, 51, 53, 48, 51, 51, 54, 51"/>
+  <card name="Frothing Berserker" rarity="Rare" set="Classic" playerClass="Warrior" cost="3" type="Minion" weight="5" tierScore="89"/>
+  <card name="Harvest Golem" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="68, 68, 68, 68, 67, 68, 68, 68, 68"/>
+  <card name="Imp Master" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="64, 64, 64, 64, 64, 64, 64, 64, 64"/>
+  <card name="Injured Blademaster" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="57, 57, 57, 57, 66, 57, 57, 57, 57"/>
+  <card name="Ironbeak Owl" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="32, 35, 30, 31, 30, 32, 31, 31, 31"/>
+  <card name="Jungle Panther" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="57, 57, 52, 52, 52, 52, 52, 52, 52"/>
+  <card name="King Mukla" rarity="Legendary" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="60, 66, 58, 58, 58, 58, 58, 58, 58"/>
+  <card name="Kirin Tor Mage" rarity="Rare" set="Classic" playerClass="Mage" cost="3" type="Minion" weight="5" tierScore="59"/>
+  <card name="Mana Tide Totem" rarity="Rare" set="Classic" playerClass="Shaman" cost="3" type="Minion" weight="5" tierScore="58"/>
+  <card name="Mind Control Tech" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="71, 71, 71, 71, 72, 68, 72, 71, 71"/>
+  <card name="Murloc Warleader" rarity="Epic" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="48, 48, 48, 48, 48, 48, 48, 48, 48"/>
+  <card name="Questing Adventurer" rarity="Rare" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="54, 54, 54, 54, 54, 58, 54, 55, 54"/>
+  <card name="Raging Worgen" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="55, 55, 57, 56, 55, 55, 55, 55, 57"/>
+  <card name="Scarlet Crusader" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="68, 68, 68, 68, 63, 68, 68, 68, 67"/>
+  <card name="SI:7 Agent" rarity="Rare" set="Classic" playerClass="Rogue" cost="3" type="Minion" weight="5" tierScore="96"/>
+  <card name="Southsea Captain" rarity="Epic" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="49, 49, 49, 49, 49, 52, 49, 49, 52"/>
+  <card name="Tauren Warrior" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="28, 27, 33, 28, 28, 33, 28, 31, 29"/>
+  <card name="Thrallmar Farseer" rarity="Common" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="22, 22, 22, 22, 22, 22, 22, 22, 22"/>
+  <card name="Tinkmaster Overspark" rarity="Legendary" set="Classic" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="55, 55, 55, 56, 55, 55, 56, 55, 55"/>
+  <card name="Unbound Elemental" rarity="Common" set="Classic" playerClass="Shaman" cost="3" type="Minion" weight="5" tierScore="57"/>
+  <card name="Void Terror" rarity="Rare" set="Classic" playerClass="Warlock" cost="3" type="Minion" weight="5" tierScore="41"/>
+  <card name="Stormforged Axe" rarity="Common" set="Classic" playerClass="Shaman" cost="2" type="Weapon" weight="5" tierScore="80"/>
+  <card name="Ancestral Spirit" rarity="Rare" set="Classic" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="50"/>
+  <card name="Battle Rage" rarity="Common" set="Classic" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="62"/>
+  <card name="Betrayal" rarity="Common" set="Classic" playerClass="Rogue" cost="2" type="Spell" weight="5" tierScore="61"/>
+  <card name="Commanding Shout" rarity="Rare" set="Classic" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="55"/>
+  <card name="Demonfire" rarity="Common" set="Classic" playerClass="Warlock" cost="2" type="Spell" weight="5" tierScore="59"/>
+  <card name="Equality" rarity="Rare" set="Classic" playerClass="Paladin" cost="2" type="Spell" weight="5" tierScore="62"/>
+  <card name="Eviscerate" rarity="Common" set="Classic" playerClass="Rogue" cost="2" type="Spell" weight="5" tierScore="84"/>
+  <card name="Explosive Trap" rarity="Common" set="Classic" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="46"/>
+  <card name="Flare" rarity="Rare" set="Classic" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="37"/>
+  <card name="Freezing Trap" rarity="Common" set="Classic" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="80"/>
+  <card name="Misdirection" rarity="Rare" set="Classic" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="29"/>
+  <card name="Power of the Wild" rarity="Common" set="Classic" playerClass="Druid" cost="2" type="Spell" weight="5" tierScore="69"/>
+  <card name="Rampage" rarity="Common" set="Classic" playerClass="Warrior" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Slam" rarity="Common" set="Classic" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="70"/>
+  <card name="Snake Trap" rarity="Epic" set="Classic" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="84"/>
+  <card name="Snipe" rarity="Common" set="Classic" playerClass="Hunter" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Wrath" rarity="Common" set="Classic" playerClass="Druid" cost="2" type="Spell" weight="5" tierScore="73"/>
+  <card name="Amani Berserker" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="67, 67, 69, 67, 70, 67, 67, 67, 68"/>
+  <card name="Ancient Watcher" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="7, 7, 7, 7, 7, 7, 7, 7, 7"/>
+  <card name="Argent Protector" rarity="Common" set="Classic" playerClass="Paladin" cost="2" type="Minion" weight="5" tierScore="85"/>
+  <card name="Armorsmith" rarity="Rare" set="Classic" playerClass="Warrior" cost="2" type="Minion" weight="5" tierScore="43"/>
+  <card name="Bloodmage Thalnos" rarity="Legendary" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="57, 56, 56, 56, 56, 60, 60, 53, 56"/>
+  <card name="Bloodsail Raider" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="56, 57, 56, 59, 56, 63, 57, 56, 68"/>
+  <card name="Crazed Alchemist" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="53, 53, 53, 53, 53, 53, 53, 55, 53"/>
+  <card name="Cruel Taskmaster" rarity="Common" set="Classic" playerClass="Warrior" cost="2" type="Minion" weight="5" tierScore="78"/>
+  <card name="Defias Ringleader" rarity="Common" set="Classic" playerClass="Rogue" cost="2" type="Minion" weight="5" tierScore="78"/>
+  <card name="Dire Wolf Alpha" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="66, 66, 63, 66, 63, 63, 66, 71, 63"/>
+  <card name="Doomsayer" rarity="Epic" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="41, 41, 41, 41, 44, 41, 41, 41, 41"/>
+  <card name="Faerie Dragon" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="57, 57, 57, 55, 54, 57, 57, 57, 57"/>
+  <card name="Knife Juggler" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="60, 61, 60, 66, 60, 60, 66, 69, 60"/>
+  <card name="Lightwell" rarity="Rare" set="Classic" playerClass="Priest" cost="2" type="Minion" weight="0" tierScore="0"/>
+  <card name="Loot Hoarder" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="63, 65, 63, 63, 63, 63, 63, 55, 63"/>
+  <card name="Lorewalker Cho" rarity="Legendary" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="6, 6, 6, 6, 6, 6, 6, 6, 6"/>
+  <card name="Mad Bomber" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="67, 67, 67, 67, 67, 67, 67, 67, 68"/>
+  <card name="Mana Addict" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="25, 25, 26, 25, 25, 28, 25, 25, 25"/>
+  <card name="Mana Wraith" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="53, 52, 53, 53, 57, 52, 53, 53, 53"/>
+  <card name="Master Swordsmith" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="37, 37, 37, 40, 37, 37, 40, 39, 37"/>
+  <card name="Millhouse Manastorm" rarity="Legendary" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="52, 57, 52, 52, 52, 52, 52, 52, 52"/>
+  <card name="Nat Pagle" rarity="Legendary" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="21, 18, 21, 21, 21, 21, 21, 15, 21"/>
+  <card name="Patient Assassin" rarity="Epic" set="Classic" playerClass="Rogue" cost="2" type="Minion" weight="5" tierScore="63"/>
+  <card name="Pint-Sized Summoner" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="45, 45, 45, 45, 45, 45, 45, 47, 45"/>
+  <card name="Scavenging Hyena" rarity="Common" set="Classic" playerClass="Hunter" cost="2" type="Minion" weight="5" tierScore="58"/>
+  <card name="Sorcerer's Apprentice" rarity="Common" set="Classic" playerClass="Mage" cost="2" type="Minion" weight="5" tierScore="62"/>
+  <card name="Sunfury Protector" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="58, 58, 58, 59, 58, 60, 59, 64, 58"/>
+  <card name="Wild Pyromancer" rarity="Rare" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="58, 58, 58, 56, 61, 58, 58, 58, 58"/>
+  <card name="Youthful Brewmaster" rarity="Common" set="Classic" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="45, 45, 45, 46, 45, 45, 45, 45, 45"/>
+  <card name="Bestial Wrath" rarity="Epic" set="Classic" playerClass="Hunter" cost="1" type="Spell" weight="5" tierScore="38"/>
+  <card name="Blessing of Wisdom" rarity="Common" set="Classic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="55"/>
+  <card name="Cold Blood" rarity="Common" set="Classic" playerClass="Rogue" cost="1" type="Spell" weight="5" tierScore="52"/>
+  <card name="Conceal" rarity="Common" set="Classic" playerClass="Rogue" cost="1" type="Spell" weight="5" tierScore="29"/>
+  <card name="Earth Shock" rarity="Common" set="Classic" playerClass="Shaman" cost="1" type="Spell" weight="5" tierScore="55"/>
+  <card name="Eye for an Eye" rarity="Common" set="Classic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="2"/>
+  <card name="Forked Lightning" rarity="Common" set="Classic" playerClass="Shaman" cost="1" type="Spell" weight="5" tierScore="59"/>
+  <card name="Ice Lance" rarity="Common" set="Classic" playerClass="Mage" cost="1" type="Spell" weight="5" tierScore="33"/>
+  <card name="Inner Fire" rarity="Common" set="Classic" playerClass="Priest" cost="1" type="Spell" weight="0" tierScore="0"/>
+  <card name="Lightning Bolt" rarity="Common" set="Classic" playerClass="Shaman" cost="1" type="Spell" weight="5" tierScore="69"/>
+  <card name="Naturalize" rarity="Common" set="Classic" playerClass="Druid" cost="1" type="Spell" weight="5" tierScore="50"/>
+  <card name="Noble Sacrifice" rarity="Common" set="Classic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="59"/>
+  <card name="Power Overwhelming" rarity="Common" set="Classic" playerClass="Warlock" cost="1" type="Spell" weight="5" tierScore="67"/>
+  <card name="Redemption" rarity="Common" set="Classic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="60"/>
+  <card name="Repentance" rarity="Common" set="Classic" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="44"/>
+  <card name="Savagery" rarity="Rare" set="Classic" playerClass="Druid" cost="1" type="Spell" weight="0" tierScore="0"/>
+  <card name="Shield Slam" rarity="Epic" set="Classic" playerClass="Warrior" cost="1" type="Spell" weight="5" tierScore="47"/>
+  <card name="Upgrade!" rarity="Rare" set="Classic" playerClass="Warrior" cost="1" type="Spell" weight="5" tierScore="60"/>
+  <card name="Abusive Sergeant" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="55, 57, 55, 58, 55, 57, 59, 67, 55"/>
+  <card name="Angry Chicken" rarity="Rare" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="11, 13, 9, 9, 9, 9, 9, 9, 9"/>
+  <card name="Argent Squire" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="63, 67, 63, 67, 62, 65, 66, 68, 63"/>
+  <card name="Blood Imp" rarity="Common" set="Classic" playerClass="Warlock" cost="1" type="Minion" weight="5" tierScore="55"/>
+  <card name="Bloodsail Corsair" rarity="Rare" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="34, 34, 34, 34, 34, 34, 34, 34, 34"/>
+  <card name="Dust Devil" rarity="Common" set="Classic" playerClass="Shaman" cost="1" type="Minion" weight="0" tierScore="0"/>
+  <card name="Flame Imp" rarity="Common" set="Classic" playerClass="Warlock" cost="1" type="Minion" weight="5" tierScore="70"/>
+  <card name="Hungry Crab" rarity="Epic" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="35, 38, 33, 33, 33, 33, 33, 33, 33"/>
+  <card name="Leper Gnome" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="15, 28, 15, 15, 14, 16, 15, 16, 15"/>
+  <card name="Lightwarden" rarity="Rare" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="32, 32, 32, 32, 54, 32, 32, 32, 32"/>
+  <card name="Mana Wyrm" rarity="Common" set="Classic" playerClass="Mage" cost="1" type="Minion" weight="5" tierScore="79"/>
+  <card name="Murloc Tidecaller" rarity="Rare" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="30, 30, 30, 30, 30, 30, 30, 30, 30"/>
+  <card name="Secretkeeper" rarity="Rare" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="29, 34, 32, 33, 29, 29, 29, 29, 29"/>
+  <card name="Shieldbearer" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="27, 25, 27, 27, 27, 31, 27, 32, 27"/>
+  <card name="Southsea Deckhand" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="42, 51, 42, 52, 42, 63, 47, 43, 53"/>
+  <card name="Worgen Infiltrator" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="61, 63, 61, 61, 61, 62, 61, 62, 58"/>
+  <card name="Young Dragonhawk" rarity="Common" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="12, 16, 10, 11, 10, 10, 10, 10, 10"/>
+  <card name="Young Priestess" rarity="Rare" set="Classic" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="59, 62, 59, 60, 59, 60, 59, 63, 59"/>
+  <card name="Circle of Healing" rarity="Common" set="Classic" playerClass="Priest" cost="0" type="Spell" weight="5" tierScore="42"/>
+  <card name="Inner Rage" rarity="Common" set="Classic" playerClass="Warrior" cost="0" type="Spell" weight="5" tierScore="41"/>
+  <card name="Preparation" rarity="Epic" set="Classic" playerClass="Rogue" cost="0" type="Spell" weight="5" tierScore="19"/>
+  <card name="Shadowstep" rarity="Common" set="Classic" playerClass="Rogue" cost="0" type="Spell" weight="5" tierScore="17"/>
+  <card name="Silence" rarity="Common" set="Classic" playerClass="Priest" cost="0" type="Spell" weight="5" tierScore="40"/>
+  <card name="Wisp" rarity="Common" set="Classic" playerClass="Neutral" cost="0" type="Minion" weight="5" tierScore="25, 26, 25, 25, 22, 30, 25, 28, 24"/>
+  <card name="Captain's Parrot" rarity="Epic" set="Reward" playerClass="Neutral" cost="2" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Old Murk-Eye" rarity="Legendary" set="Reward" playerClass="Neutral" cost="4" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Elite Tauren Chieftain" rarity="Legendary" set="Reward" playerClass="Neutral" cost="5" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Gelbin Mekkatorque" rarity="Legendary" set="Reward" playerClass="Neutral" cost="6" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Kel'Thuzad" rarity="Legendary" set="Curse of Naxxramas" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="80, 77, 80, 80, 80, 80, 80, 80, 80"/>
+  <card name="Maexxna" rarity="Legendary" set="Curse of Naxxramas" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="70, 63, 64, 64, 64, 64, 64, 64, 64"/>
+  <card name="Feugen" rarity="Legendary" set="Curse of Naxxramas" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="73, 73, 73, 73, 73, 73, 73, 73, 73"/>
+  <card name="Loatheb" rarity="Legendary" set="Curse of Naxxramas" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="63, 66, 63, 63, 63, 63, 63, 63, 63"/>
+  <card name="Sludge Belcher" rarity="Rare" set="Curse of Naxxramas" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="82, 80, 82, 82, 82, 85, 82, 85, 82"/>
+  <card name="Spectral Knight" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="59, 59, 59, 57, 56, 59, 59, 59, 59"/>
+  <card name="Stalagg" rarity="Legendary" set="Curse of Naxxramas" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="42, 42, 42, 42, 42, 42, 42, 42, 42"/>
+  <card name="Death's Bite" rarity="Common" set="Curse of Naxxramas" playerClass="Warrior" cost="4" type="Weapon" weight="5" tierScore="106"/>
+  <card name="Poison Seeds" rarity="Common" set="Curse of Naxxramas" playerClass="Druid" cost="4" type="Spell" weight="0" tierScore="0"/>
+  <card name="Anub'ar Ambusher" rarity="Common" set="Curse of Naxxramas" playerClass="Rogue" cost="4" type="Minion" weight="5" tierScore="56"/>
+  <card name="Baron Rivendare" rarity="Legendary" set="Curse of Naxxramas" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="31, 31, 31, 31, 31, 31, 31, 31, 31"/>
+  <card name="Voidcaller" rarity="Common" set="Curse of Naxxramas" playerClass="Warlock" cost="4" type="Minion" weight="5" tierScore="77"/>
+  <card name="Wailing Soul" rarity="Rare" set="Curse of Naxxramas" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="49, 49, 49, 49, 49, 49, 44, 49, 49"/>
+  <card name="Duplicate" rarity="Common" set="Curse of Naxxramas" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="44"/>
+  <card name="Dancing Swords" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="40, 45, 40, 40, 40, 44, 40, 40, 40"/>
+  <card name="Dark Cultist" rarity="Common" set="Curse of Naxxramas" playerClass="Priest" cost="3" type="Minion" weight="5" tierScore="91"/>
+  <card name="Deathlord" rarity="Rare" set="Curse of Naxxramas" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="49, 48, 49, 49, 58, 51, 50, 51, 49"/>
+  <card name="Shade of Naxxramas" rarity="Epic" set="Curse of Naxxramas" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="65, 65, 65, 65, 69, 65, 65, 65, 65"/>
+  <card name="Stoneskin Gargoyle" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="9, 9, 9, 10, 9, 9, 9, 9, 9"/>
+  <card name="Reincarnate" rarity="Common" set="Curse of Naxxramas" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="14"/>
+  <card name="Echoing Ooze" rarity="Epic" set="Curse of Naxxramas" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="59, 59, 59, 61, 60, 59, 59, 59, 59"/>
+  <card name="Haunted Creeper" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="78, 88, 76, 78, 76, 75, 81, 79, 76"/>
+  <card name="Mad Scientist" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="27, 60, 59, 49, 27, 27, 27, 27, 27"/>
+  <card name="Nerub'ar Weblord" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="41, 40, 40, 40, 40, 40, 40, 40, 39"/>
+  <card name="Nerubian Egg" rarity="Rare" set="Curse of Naxxramas" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="50, 50, 50, 57, 50, 50, 52, 54, 50"/>
+  <card name="Unstable Ghoul" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="42, 39, 45, 36, 48, 42, 42, 42, 42"/>
+  <card name="Avenge" rarity="Common" set="Curse of Naxxramas" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="63"/>
+  <card name="Undertaker" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="33, 33, 33, 33, 33, 33, 33, 33, 33"/>
+  <card name="Webspinner" rarity="Common" set="Curse of Naxxramas" playerClass="Hunter" cost="1" type="Minion" weight="5" tierScore="79"/>
+  <card name="Zombie Chow" rarity="Common" set="Curse of Naxxramas" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="79, 70, 79, 79, 84, 79, 81, 81, 77"/>
+  <card name="Clockwork Giant" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="12" type="Minion" weight="5" tierScore="25, 25, 25, 25, 25, 25, 25, 25, 25"/>
+  <card name="Tree of Life" rarity="Epic" set="Goblins vs Gnomes" playerClass="Druid" cost="9" type="Spell" weight="0" tierScore="0"/>
+  <card name="Mal'Ganis" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Warlock" cost="9" type="Minion" weight="5" tierScore="91"/>
+  <card name="Mekgineer Thermaplugg" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="53, 53, 53, 53, 53, 53, 53, 53, 53"/>
+  <card name="Foe Reaper 4000" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="74, 74, 74, 74, 74, 74, 74, 74, 74"/>
+  <card name="Force-Tank MAX" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="58, 54, 58, 58, 58, 58, 58, 52, 58"/>
+  <card name="Sneed's Old Shredder" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="69, 65, 69, 69, 69, 69, 69, 63, 69"/>
+  <card name="Crush" rarity="Epic" set="Goblins vs Gnomes" playerClass="Warrior" cost="7" type="Spell" weight="5" tierScore="76"/>
+  <card name="Dr. Boom" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="126, 126, 126, 126, 126, 126, 126, 126, 126"/>
+  <card name="Flame Leviathan" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Mage" cost="7" type="Minion" weight="5" tierScore="67"/>
+  <card name="Gahz'rilla" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Hunter" cost="7" type="Minion" weight="5" tierScore="76"/>
+  <card name="Malorne" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Druid" cost="7" type="Minion" weight="5" tierScore="63"/>
+  <card name="Neptulon" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Shaman" cost="7" type="Minion" weight="5" tierScore="89"/>
+  <card name="Troggzor the Earthinator" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="67, 67, 67, 67, 67, 67, 67, 67, 67"/>
+  <card name="Dark Wispers" rarity="Epic" set="Goblins vs Gnomes" playerClass="Druid" cost="6" type="Spell" weight="5" tierScore="71"/>
+  <card name="Lightbomb" rarity="Epic" set="Goblins vs Gnomes" playerClass="Priest" cost="6" type="Spell" weight="5" tierScore="88"/>
+  <card name="Recycle" rarity="Rare" set="Goblins vs Gnomes" playerClass="Druid" cost="6" type="Spell" weight="5" tierScore="61"/>
+  <card name="Anima Golem" rarity="Epic" set="Goblins vs Gnomes" playerClass="Warlock" cost="6" type="Minion" weight="0" tierScore="0"/>
+  <card name="Gazlowe" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="28, 28, 28, 28, 28, 28, 28, 28, 28"/>
+  <card name="Iron Juggernaut" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Warrior" cost="6" type="Minion" weight="5" tierScore="39"/>
+  <card name="Mech-Bear-Cat" rarity="Rare" set="Goblins vs Gnomes" playerClass="Druid" cost="6" type="Minion" weight="5" tierScore="69"/>
+  <card name="Mogor the Ogre" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="63, 63, 63, 63, 63, 63, 63, 63, 63"/>
+  <card name="Piloted Sky Golem" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+  <card name="Shieldmaiden" rarity="Rare" set="Goblins vs Gnomes" playerClass="Warrior" cost="6" type="Minion" weight="5" tierScore="56"/>
+  <card name="Toshley" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="73, 73, 73, 73, 73, 73, 73, 73, 73"/>
+  <card name="Trade Prince Gallywix" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Rogue" cost="6" type="Minion" weight="5" tierScore="81"/>
+  <card name="Cobra Shot" rarity="Common" set="Goblins vs Gnomes" playerClass="Hunter" cost="5" type="Spell" weight="0" tierScore="0"/>
+  <card name="Demonheart" rarity="Epic" set="Goblins vs Gnomes" playerClass="Warlock" cost="5" type="Spell" weight="5" tierScore="66"/>
+  <card name="Antique Healbot" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="46, 35, 47, 46, 44, 52, 46, 52, 45"/>
+  <card name="Blingtron 3000" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="47, 49, 47, 47, 47, 47, 47, 47, 47"/>
+  <card name="Bolvar Fordragon" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Paladin" cost="5" type="Minion" weight="5" tierScore="55"/>
+  <card name="Bomb Lobber" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="82, 79, 82, 82, 82, 86, 82, 82, 82"/>
+  <card name="Cobalt Guardian" rarity="Rare" set="Goblins vs Gnomes" playerClass="Paladin" cost="5" type="Minion" weight="5" tierScore="35"/>
+  <card name="Druid of the Fang" rarity="Common" set="Goblins vs Gnomes" playerClass="Druid" cost="5" type="Minion" weight="5" tierScore="64"/>
+  <card name="Fel Reaver" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="70, 80, 70, 70, 67, 74, 70, 70, 70"/>
+  <card name="Floating Watcher" rarity="Common" set="Goblins vs Gnomes" playerClass="Warlock" cost="5" type="Minion" weight="5" tierScore="59"/>
+  <card name="Hemet Nesingwary" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="55, 55, 55, 55, 55, 55, 55, 55, 55"/>
+  <card name="Junkbot" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="8, 8, 8, 8, 8, 8, 8, 8, 8"/>
+  <card name="King of Beasts" rarity="Rare" set="Goblins vs Gnomes" playerClass="Hunter" cost="5" type="Minion" weight="5" tierScore="50"/>
+  <card name="Madder Bomber" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="67, 67, 68, 64, 67, 66, 65, 65, 68"/>
+  <card name="Mimiron's Head" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="42, 42, 42, 42, 42, 42, 42, 42, 42"/>
+  <card name="Ogre Ninja" rarity="Rare" set="Goblins vs Gnomes" playerClass="Rogue" cost="5" type="Minion" weight="5" tierScore="65"/>
+  <card name="Quartermaster" rarity="Epic" set="Goblins vs Gnomes" playerClass="Paladin" cost="5" type="Minion" weight="5" tierScore="64"/>
+  <card name="Salty Dog" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="42, 42, 42, 42, 42, 43, 42, 42, 42"/>
+  <card name="Siege Engine" rarity="Rare" set="Goblins vs Gnomes" playerClass="Warrior" cost="5" type="Minion" weight="5" tierScore="58"/>
+  <card name="Upgraded Repair Bot" rarity="Rare" set="Goblins vs Gnomes" playerClass="Priest" cost="5" type="Minion" weight="5" tierScore="63"/>
+  <card name="Vol'jin" rarity="Legendary" set="Goblins vs Gnomes" playerClass="Priest" cost="5" type="Minion" weight="5" tierScore="102"/>
+  <card name="Ancestor's Call" rarity="Epic" set="Goblins vs Gnomes" playerClass="Shaman" cost="4" type="Spell" weight="5" tierScore="1"/>
+  <card name="Echo of Medivh" rarity="Epic" set="Goblins vs Gnomes" playerClass="Mage" cost="4" type="Spell" weight="5" tierScore="41"/>
+  <card name="Imp-losion" rarity="Rare" set="Goblins vs Gnomes" playerClass="Warlock" cost="4" type="Spell" weight="5" tierScore="108"/>
+  <card name="Sabotage" rarity="Epic" set="Goblins vs Gnomes" playerClass="Rogue" cost="4" type="Spell" weight="5" tierScore="78"/>
+  <card name="Tinker's Sharpsword Oil" rarity="Common" set="Goblins vs Gnomes" playerClass="Rogue" cost="4" type="Spell" weight="5" tierScore="51"/>
+  <card name="Arcane Nullifier X-21" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="51, 51, 51, 50, 46, 52, 51, 52, 51"/>
+  <card name="Burly Rockjaw Trogg" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="57, 57, 57, 57, 57, 57, 57, 57, 57"/>
+  <card name="Dunemaul Shaman" rarity="Rare" set="Goblins vs Gnomes" playerClass="Shaman" cost="4" type="Minion" weight="0" tierScore="0"/>
+  <card name="Enhance-o Mechano" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="45, 45, 45, 48, 45, 45, 47, 55, 45"/>
+  <card name="Fel Cannon" rarity="Rare" set="Goblins vs Gnomes" playerClass="Warlock" cost="4" type="Minion" weight="5" tierScore="54"/>
+  <card name="Goblin Blastmage" rarity="Rare" set="Goblins vs Gnomes" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="71"/>
+  <card name="Jeeves" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="47, 57, 47, 47, 47, 47, 47, 27, 47"/>
+  <card name="Kezan Mystic" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="44, 44, 44, 44, 44, 44, 44, 44, 44"/>
+  <card name="Lost Tallstrider" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="56, 56, 54, 54, 54, 54, 54, 54, 54"/>
+  <card name="Mechanical Yeti" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="69, 69, 69, 68, 69, 71, 69, 69, 69"/>
+  <card name="Mini-Mage" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="36, 36, 36, 36, 36, 36, 36, 36, 36"/>
+  <card name="Piloted Shredder" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="86, 86, 86, 84, 85, 86, 86, 86, 86"/>
+  <card name="Screwjank Clunker" rarity="Rare" set="Goblins vs Gnomes" playerClass="Warrior" cost="4" type="Minion" weight="5" tierScore="39"/>
+  <card name="Siltfin Spiritwalker" rarity="Epic" set="Goblins vs Gnomes" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="12"/>
+  <card name="Wee Spellstopper" rarity="Epic" set="Goblins vs Gnomes" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="31"/>
+  <card name="Coghammer" rarity="Epic" set="Goblins vs Gnomes" playerClass="Paladin" cost="3" type="Weapon" weight="5" tierScore="114"/>
+  <card name="Cogmaster's Wrench" rarity="Epic" set="Goblins vs Gnomes" playerClass="Rogue" cost="3" type="Weapon" weight="5" tierScore="21"/>
+  <card name="Ogre Warmaul" rarity="Common" set="Goblins vs Gnomes" playerClass="Warrior" cost="3" type="Weapon" weight="0" tierScore="0"/>
+  <card name="Powermace" rarity="Rare" set="Goblins vs Gnomes" playerClass="Shaman" cost="3" type="Weapon" weight="5" tierScore="89"/>
+  <card name="Bouncing Blade" rarity="Epic" set="Goblins vs Gnomes" playerClass="Warrior" cost="3" type="Spell" weight="0" tierScore="0"/>
+  <card name="Muster for Battle" rarity="Rare" set="Goblins vs Gnomes" playerClass="Paladin" cost="3" type="Spell" weight="5" tierScore="130"/>
+  <card name="Velen's Chosen" rarity="Common" set="Goblins vs Gnomes" playerClass="Priest" cost="3" type="Spell" weight="5" tierScore="86"/>
+  <card name="Flying Machine" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="12, 12, 12, 14, 12, 12, 12, 12, 12"/>
+  <card name="Gnomeregan Infantry" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="37, 37, 37, 37, 37, 37, 37, 37, 37"/>
+  <card name="Gnomish Experimenter" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="57, 57, 57, 57, 57, 57, 57, 57, 57"/>
+  <card name="Goblin Sapper" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="44, 44, 44, 44, 44, 44, 44, 44, 44"/>
+  <card name="Grove Tender" rarity="Rare" set="Goblins vs Gnomes" playerClass="Druid" cost="3" type="Minion" weight="5" tierScore="48"/>
+  <card name="Hobgoblin" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="36, 36, 36, 36, 36, 36, 36, 41, 36"/>
+  <card name="Illuminator" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="42, 43, 44, 43, 42, 42, 42, 42, 42"/>
+  <card name="Iron Sensei" rarity="Rare" set="Goblins vs Gnomes" playerClass="Rogue" cost="3" type="Minion" weight="5" tierScore="42"/>
+  <card name="Lil' Exorcist" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="45, 43, 45, 45, 45, 45, 45, 45, 45"/>
+  <card name="Metaltooth Leaper" rarity="Rare" set="Goblins vs Gnomes" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="49"/>
+  <card name="Ogre Brute" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="66, 66, 66, 66, 66, 66, 66, 66, 66"/>
+  <card name="Scarlet Purifier" rarity="Rare" set="Goblins vs Gnomes" playerClass="Paladin" cost="3" type="Minion" weight="5" tierScore="60"/>
+  <card name="Soot Spewer" rarity="Rare" set="Goblins vs Gnomes" playerClass="Mage" cost="3" type="Minion" weight="5" tierScore="55"/>
+  <card name="Spider Tank" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="67, 67, 67, 67, 67, 67, 67, 67, 67"/>
+  <card name="Tinkertown Technician" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="53, 51, 53, 53, 52, 54, 53, 51, 52"/>
+  <card name="Glaivezooka" rarity="Common" set="Goblins vs Gnomes" playerClass="Hunter" cost="2" type="Weapon" weight="5" tierScore="95"/>
+  <card name="Call Pet" rarity="Rare" set="Goblins vs Gnomes" playerClass="Hunter" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Crackle" rarity="Common" set="Goblins vs Gnomes" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="67"/>
+  <card name="Darkbomb" rarity="Common" set="Goblins vs Gnomes" playerClass="Warlock" cost="2" type="Spell" weight="5" tierScore="76"/>
+  <card name="Feign Death" rarity="Epic" set="Goblins vs Gnomes" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="10"/>
+  <card name="Flamecannon" rarity="Common" set="Goblins vs Gnomes" playerClass="Mage" cost="2" type="Spell" weight="5" tierScore="80"/>
+  <card name="Seal of Light" rarity="Common" set="Goblins vs Gnomes" playerClass="Paladin" cost="2" type="Spell" weight="5" tierScore="45"/>
+  <card name="Unstable Portal" rarity="Rare" set="Goblins vs Gnomes" playerClass="Mage" cost="2" type="Spell" weight="5" tierScore="71"/>
+  <card name="Annoy-o-Tron" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="64, 64, 64, 64, 64, 66, 64, 66, 64"/>
+  <card name="Anodized Robo Cub" rarity="Common" set="Goblins vs Gnomes" playerClass="Druid" cost="2" type="Minion" weight="5" tierScore="68"/>
+  <card name="Explosive Sheep" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="29, 29, 51, 29, 29, 29, 29, 29, 30"/>
+  <card name="Gilblin Stalker" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="62, 62, 62, 62, 64, 62, 62, 62, 62"/>
+  <card name="Goblin Auto-Barber" rarity="Common" set="Goblins vs Gnomes" playerClass="Rogue" cost="2" type="Minion" weight="5" tierScore="83"/>
+  <card name="Mechwarper" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="61, 61, 61, 61, 61, 61, 61, 61, 61"/>
+  <card name="Micro Machine" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="52, 52, 52, 52, 52, 52, 52, 52, 52"/>
+  <card name="Mistress of Pain" rarity="Rare" set="Goblins vs Gnomes" playerClass="Warlock" cost="2" type="Minion" weight="5" tierScore="53"/>
+  <card name="One-eyed Cheat" rarity="Rare" set="Goblins vs Gnomes" playerClass="Rogue" cost="2" type="Minion" weight="5" tierScore="27"/>
+  <card name="Puddlestomper" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="54, 54, 54, 54, 54, 54, 54, 54, 54"/>
+  <card name="Recombobulator" rarity="Epic" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="59, 59, 59, 59, 59, 59, 59, 59, 59"/>
+  <card name="Shadowboxer" rarity="Rare" set="Goblins vs Gnomes" playerClass="Priest" cost="2" type="Minion" weight="5" tierScore="66"/>
+  <card name="Shielded Minibot" rarity="Common" set="Goblins vs Gnomes" playerClass="Paladin" cost="2" type="Minion" weight="5" tierScore="90"/>
+  <card name="Ship's Cannon" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="56, 56, 56, 56, 56, 58, 56, 56, 58"/>
+  <card name="Shrinkmeister" rarity="Common" set="Goblins vs Gnomes" playerClass="Priest" cost="2" type="Minion" weight="5" tierScore="72"/>
+  <card name="Snowchugger" rarity="Common" set="Goblins vs Gnomes" playerClass="Mage" cost="2" type="Minion" weight="0" tierScore="0"/>
+  <card name="Steamwheedle Sniper" rarity="Epic" set="Goblins vs Gnomes" playerClass="Hunter" cost="2" type="Minion" weight="5" tierScore="84"/>
+  <card name="Stonesplinter Trogg" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="60, 60, 60, 60, 60, 60, 60, 60, 60"/>
+  <card name="Vitality Totem" rarity="Rare" set="Goblins vs Gnomes" playerClass="Shaman" cost="2" type="Minion" weight="0" tierScore="0"/>
+  <card name="Whirling Zap-o-matic" rarity="Common" set="Goblins vs Gnomes" playerClass="Shaman" cost="2" type="Minion" weight="5" tierScore="65"/>
+  <card name="Light of the Naaru" rarity="Rare" set="Goblins vs Gnomes" playerClass="Priest" cost="1" type="Spell" weight="5" tierScore="62"/>
+  <card name="Clockwork Gnome" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="56, 57, 56, 56, 55, 56, 56, 59, 55"/>
+  <card name="Cogmaster" rarity="Common" set="Goblins vs Gnomes" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="38, 37, 38, 38, 37, 38, 38, 37, 37"/>
+  <card name="Shadowbomber" rarity="Epic" set="Goblins vs Gnomes" playerClass="Priest" cost="1" type="Minion" weight="0" tierScore="0"/>
+  <card name="Warbot" rarity="Common" set="Goblins vs Gnomes" playerClass="Warrior" cost="1" type="Minion" weight="5" tierScore="51"/>
+  <card name="Target Dummy" rarity="Rare" set="Goblins vs Gnomes" playerClass="Neutral" cost="0" type="Minion" weight="5" tierScore="28, 28, 28, 28, 28, 31, 28, 29, 28"/>
+  <card name="Majordomo Executus" rarity="Legendary" set="Blackrock Mountain" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="32, 32, 32, 32, 32, 32, 32, 32, 32"/>
+  <card name="Nefarian" rarity="Legendary" set="Blackrock Mountain" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="78, 76, 78, 78, 78, 78, 78, 75, 78"/>
+  <card name="Volcanic Lumberer" rarity="Rare" set="Blackrock Mountain" playerClass="Druid" cost="9" type="Minion" weight="5" tierScore="71"/>
+  <card name="Chromaggus" rarity="Legendary" set="Blackrock Mountain" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="66, 66, 66, 66, 66, 66, 66, 66, 66"/>
+  <card name="Rend Blackhand" rarity="Legendary" set="Blackrock Mountain" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="20, 20, 20, 20, 20, 20, 20, 20, 20"/>
+  <card name="Drakonid Crusher" rarity="Common" set="Blackrock Mountain" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="61, 62, 61, 61, 61, 61, 61, 59, 61"/>
+  <card name="Emperor Thaurissan" rarity="Legendary" set="Blackrock Mountain" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="60, 58, 60, 60, 60, 60, 60, 60, 60"/>
+  <card name="Volcanic Drake" rarity="Common" set="Blackrock Mountain" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="53, 53, 53, 56, 52, 54, 53, 56, 53"/>
+  <card name="Dragon's Breath" rarity="Common" set="Blackrock Mountain" playerClass="Mage" cost="5" type="Spell" weight="5" tierScore="49"/>
+  <card name="Solemn Vigil" rarity="Common" set="Blackrock Mountain" playerClass="Paladin" cost="5" type="Spell" weight="5" tierScore="56"/>
+  <card name="Blackwing Corruptor" rarity="Common" set="Blackrock Mountain" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+  <card name="Dark Iron Skulker" rarity="Rare" set="Blackrock Mountain" playerClass="Rogue" cost="5" type="Minion" weight="5" tierScore="97"/>
+  <card name="Dragon Consort" rarity="Rare" set="Blackrock Mountain" playerClass="Paladin" cost="5" type="Minion" weight="5" tierScore="58"/>
+  <card name="Grim Patron" rarity="Rare" set="Blackrock Mountain" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="21, 21, 43, 21, 21, 21, 21, 21, 31"/>
+  <card name="Axe Flinger" rarity="Common" set="Blackrock Mountain" playerClass="Warrior" cost="4" type="Minion" weight="0" tierScore="0"/>
+  <card name="Core Rager" rarity="Rare" set="Blackrock Mountain" playerClass="Hunter" cost="4" type="Minion" weight="5" tierScore="50"/>
+  <card name="Dragonkin Sorcerer" rarity="Common" set="Blackrock Mountain" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="54, 54, 54, 54, 54, 54, 54, 54, 54"/>
+  <card name="Fireguard Destroyer" rarity="Common" set="Blackrock Mountain" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="78"/>
+  <card name="Hungry Dragon" rarity="Common" set="Blackrock Mountain" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="47, 43, 47, 43, 47, 48, 43, 43, 43"/>
+  <card name="Demonwrath" rarity="Rare" set="Blackrock Mountain" playerClass="Warlock" cost="3" type="Spell" weight="5" tierScore="68"/>
+  <card name="Blackwing Technician" rarity="Common" set="Blackrock Mountain" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="45, 45, 45, 45, 46, 45, 45, 45, 45"/>
+  <card name="Druid of the Flame" rarity="Common" set="Blackrock Mountain" playerClass="Druid" cost="3" type="Minion" weight="5" tierScore="65"/>
+  <card name="Flamewaker" rarity="Rare" set="Blackrock Mountain" playerClass="Mage" cost="3" type="Minion" weight="5" tierScore="65"/>
+  <card name="Imp Gang Boss" rarity="Common" set="Blackrock Mountain" playerClass="Warlock" cost="3" type="Minion" weight="5" tierScore="106"/>
+  <card name="Gang Up" rarity="Common" set="Blackrock Mountain" playerClass="Rogue" cost="2" type="Spell" weight="5" tierScore="1"/>
+  <card name="Lava Shock" rarity="Rare" set="Blackrock Mountain" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="55"/>
+  <card name="Quick Shot" rarity="Common" set="Blackrock Mountain" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="74"/>
+  <card name="Resurrect" rarity="Rare" set="Blackrock Mountain" playerClass="Priest" cost="2" type="Spell" weight="5" tierScore="53"/>
+  <card name="Revenge" rarity="Rare" set="Blackrock Mountain" playerClass="Warrior" cost="2" type="Spell" weight="5" tierScore="54"/>
+  <card name="Dragon Egg" rarity="Rare" set="Blackrock Mountain" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="47, 47, 48, 52, 47, 47, 48, 52, 48"/>
+  <card name="Twilight Whelp" rarity="Common" set="Blackrock Mountain" playerClass="Priest" cost="1" type="Minion" weight="5" tierScore="44"/>
+  <card name="Frost Giant" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="47, 36, 55, 50, 48, 48, 48, 47, 39"/>
+  <card name="Varian Wrynn" rarity="Legendary" set="The Grand Tournament" playerClass="Warrior" cost="10" type="Minion" weight="5" tierScore="107"/>
+  <card name="Anub'arak" rarity="Legendary" set="The Grand Tournament" playerClass="Rogue" cost="9" type="Minion" weight="5" tierScore="54"/>
+  <card name="Aviana" rarity="Legendary" set="The Grand Tournament" playerClass="Druid" cost="9" type="Minion" weight="5" tierScore="50"/>
+  <card name="Icehowl" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="74, 71, 74, 74, 77, 74, 74, 74, 74"/>
+  <card name="North Sea Kraken" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="87, 80, 86, 86, 91, 86, 86, 84, 92"/>
+  <card name="Rhonin" rarity="Legendary" set="The Grand Tournament" playerClass="Mage" cost="8" type="Minion" weight="5" tierScore="77"/>
+  <card name="Acidmaw" rarity="Legendary" set="The Grand Tournament" playerClass="Hunter" cost="7" type="Minion" weight="5" tierScore="20"/>
+  <card name="Captured Jormungar" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="57, 56, 56, 56, 61, 56, 56, 53, 56"/>
+  <card name="Chillmaw" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="54, 54, 54, 54, 54, 55, 54, 55, 54"/>
+  <card name="Confessor Paletress" rarity="Legendary" set="The Grand Tournament" playerClass="Priest" cost="7" type="Minion" weight="5" tierScore="84"/>
+  <card name="Eadric the Pure" rarity="Legendary" set="The Grand Tournament" playerClass="Paladin" cost="7" type="Minion" weight="5" tierScore="97"/>
+  <card name="Fearsome Doomguard" rarity="Common" set="The Grand Tournament" playerClass="Warlock" cost="7" type="Minion" weight="5" tierScore="58"/>
+  <card name="Knight of the Wild" rarity="Rare" set="The Grand Tournament" playerClass="Druid" cost="7" type="Minion" weight="5" tierScore="50"/>
+  <card name="Skycap'n Kragg" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="59, 59, 59, 59, 59, 59, 59, 59, 59"/>
+  <card name="Ball of Spiders" rarity="Rare" set="The Grand Tournament" playerClass="Hunter" cost="6" type="Spell" weight="5" tierScore="62"/>
+  <card name="Dark Bargain" rarity="Epic" set="The Grand Tournament" playerClass="Warlock" cost="6" type="Spell" weight="5" tierScore="60"/>
+  <card name="Enter the Coliseum" rarity="Epic" set="The Grand Tournament" playerClass="Paladin" cost="6" type="Spell" weight="5" tierScore="43"/>
+  <card name="Bolf Ramshield" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="46, 46, 46, 46, 46, 46, 46, 46, 46"/>
+  <card name="Coldarra Drake" rarity="Epic" set="The Grand Tournament" playerClass="Mage" cost="6" type="Minion" weight="5" tierScore="67"/>
+  <card name="Grand Crusader" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="71, 71, 71, 71, 71, 73, 71, 67, 71"/>
+  <card name="Justicar Trueheart" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="46, 38, 56, 55, 40, 38, 38, 38, 38"/>
+  <card name="Kodorider" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="73, 70, 75, 75, 72, 71, 72, 63, 69"/>
+  <card name="Master Jouster" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="62, 62, 62, 62, 62, 63, 62, 62, 62"/>
+  <card name="Mogor's Champion" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="30, 30, 30, 30, 30, 30, 30, 30, 30"/>
+  <card name="Mysterious Challenger" rarity="Epic" set="The Grand Tournament" playerClass="Paladin" cost="6" type="Minion" weight="5" tierScore="68"/>
+  <card name="Sea Reaver" rarity="Epic" set="The Grand Tournament" playerClass="Warrior" cost="6" type="Minion" weight="5" tierScore="44"/>
+  <card name="Sideshow Spelleater" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="37, 30, 37, 37, 43, 45, 37, 45, 71"/>
+  <card name="The Mistcaller" rarity="Legendary" set="The Grand Tournament" playerClass="Shaman" cost="6" type="Minion" weight="5" tierScore="66"/>
+  <card name="The Skeleton Knight" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="43, 43, 43, 43, 43, 43, 43, 42, 43"/>
+  <card name="Void Crusher" rarity="Rare" set="The Grand Tournament" playerClass="Warlock" cost="6" type="Minion" weight="0" tierScore="0"/>
+  <card name="Wilfred Fizzlebang" rarity="Legendary" set="The Grand Tournament" playerClass="Warlock" cost="6" type="Minion" weight="5" tierScore="34"/>
+  <card name="Flame Lance" rarity="Common" set="The Grand Tournament" playerClass="Mage" cost="5" type="Spell" weight="5" tierScore="72"/>
+  <card name="Clockwork Knight" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="60, 60, 60, 60, 60, 60, 60, 60, 60"/>
+  <card name="Kvaldir Raider" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="62, 59, 66, 65, 65, 62, 62, 57, 58"/>
+  <card name="Mukla's Champion" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="59, 56, 58, 72, 56, 58, 74, 58, 55"/>
+  <card name="Nexus-Champion Saraad" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="73, 73, 73, 73, 73, 73, 73, 66, 73"/>
+  <card name="Pit Fighter" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="67, 67, 67, 67, 71, 67, 67, 67, 67"/>
+  <card name="Ram Wrangler" rarity="Rare" set="The Grand Tournament" playerClass="Hunter" cost="5" type="Minion" weight="5" tierScore="54"/>
+  <card name="Recruiter" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="48, 48, 52, 53, 49, 49, 50, 48, 48"/>
+  <card name="Shado-Pan Rider" rarity="Common" set="The Grand Tournament" playerClass="Rogue" cost="5" type="Minion" weight="5" tierScore="71"/>
+  <card name="Thunder Bluff Valiant" rarity="Rare" set="The Grand Tournament" playerClass="Shaman" cost="5" type="Minion" weight="5" tierScore="75"/>
+  <card name="Tuskarr Jouster" rarity="Rare" set="The Grand Tournament" playerClass="Paladin" cost="5" type="Minion" weight="5" tierScore="58"/>
+  <card name="Charged Hammer" rarity="Epic" set="The Grand Tournament" playerClass="Shaman" cost="4" type="Weapon" weight="5" tierScore="74"/>
+  <card name="Poisoned Blade" rarity="Epic" set="The Grand Tournament" playerClass="Rogue" cost="4" type="Weapon" weight="5" tierScore="10"/>
+  <card name="Astral Communion" rarity="Epic" set="The Grand Tournament" playerClass="Druid" cost="4" type="Spell" weight="0" tierScore="0"/>
+  <card name="Fist of Jaraxxus" rarity="Rare" set="The Grand Tournament" playerClass="Warlock" cost="4" type="Spell" weight="5" tierScore="19"/>
+  <card name="Armored Warhorse" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="52, 55, 49, 49, 49, 49, 49, 49, 49"/>
+  <card name="Crowd Favorite" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="57, 57, 57, 57, 57, 59, 59, 59, 59"/>
+  <card name="Dalaran Aspirant" rarity="Common" set="The Grand Tournament" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="57"/>
+  <card name="Draenei Totemcarver" rarity="Rare" set="The Grand Tournament" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="63"/>
+  <card name="Dreadsteed" rarity="Epic" set="The Grand Tournament" playerClass="Warlock" cost="4" type="Minion" weight="5" tierScore="36"/>
+  <card name="Evil Heckler" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="66, 66, 66, 66, 66, 69, 66, 69, 66"/>
+  <card name="Frigid Snobold" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="52, 48, 49, 49, 49, 52, 51, 49, 49"/>
+  <card name="Gormok the Impaler" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="56, 56, 56, 59, 56, 56, 59, 60, 56"/>
+  <card name="Holy Champion" rarity="Common" set="The Grand Tournament" playerClass="Priest" cost="4" type="Minion" weight="5" tierScore="68"/>
+  <card name="Magnataur Alpha" rarity="Epic" set="The Grand Tournament" playerClass="Warrior" cost="4" type="Minion" weight="5" tierScore="52"/>
+  <card name="Maiden of the Lake" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="52, 48, 54, 53, 48, 44, 50, 48, 33"/>
+  <card name="Murloc Knight" rarity="Common" set="The Grand Tournament" playerClass="Paladin" cost="4" type="Minion" weight="5" tierScore="86"/>
+  <card name="Refreshment Vendor" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="57, 50, 57, 57, 59, 60, 57, 61, 57"/>
+  <card name="Savage Combatant" rarity="Rare" set="The Grand Tournament" playerClass="Druid" cost="4" type="Minion" weight="5" tierScore="88"/>
+  <card name="Spawn of Shadows" rarity="Rare" set="The Grand Tournament" playerClass="Priest" cost="4" type="Minion" weight="5" tierScore="52"/>
+  <card name="Tournament Medic" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="32, 25, 32, 32, 26, 35, 32, 35, 30"/>
+  <card name="Twilight Guardian" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="48, 45, 48, 48, 49, 48, 48, 48, 48"/>
+  <card name="Wildwalker" rarity="Common" set="The Grand Tournament" playerClass="Druid" cost="4" type="Minion" weight="5" tierScore="63"/>
+  <card name="King's Defender" rarity="Rare" set="The Grand Tournament" playerClass="Warrior" cost="3" type="Weapon" weight="5" tierScore="72"/>
+  <card name="Bash" rarity="Common" set="The Grand Tournament" playerClass="Warrior" cost="3" type="Spell" weight="5" tierScore="52"/>
+  <card name="Beneath the Grounds" rarity="Epic" set="The Grand Tournament" playerClass="Rogue" cost="3" type="Spell" weight="5" tierScore="17"/>
+  <card name="Burgle" rarity="Rare" set="The Grand Tournament" playerClass="Rogue" cost="3" type="Spell" weight="5" tierScore="53"/>
+  <card name="Effigy" rarity="Rare" set="The Grand Tournament" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="59"/>
+  <card name="Elemental Destruction" rarity="Epic" set="The Grand Tournament" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="64"/>
+  <card name="Healing Wave" rarity="Rare" set="The Grand Tournament" playerClass="Shaman" cost="3" type="Spell" weight="5" tierScore="20"/>
+  <card name="Mulch" rarity="Epic" set="The Grand Tournament" playerClass="Druid" cost="3" type="Spell" weight="5" tierScore="72"/>
+  <card name="Polymorph: Boar" rarity="Rare" set="The Grand Tournament" playerClass="Mage" cost="3" type="Spell" weight="5" tierScore="49"/>
+  <card name="Powershot" rarity="Rare" set="The Grand Tournament" playerClass="Hunter" cost="3" type="Spell" weight="5" tierScore="73"/>
+  <card name="Seal of Champions" rarity="Common" set="The Grand Tournament" playerClass="Paladin" cost="3" type="Spell" weight="5" tierScore="80"/>
+  <card name="Argent Horserider" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="71, 74, 71, 71, 71, 71, 71, 75, 71"/>
+  <card name="Coliseum Manager" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="46, 48, 46, 45, 46, 46, 46, 46, 52"/>
+  <card name="Dragonhawk Rider" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="50, 50, 50, 52, 49, 50, 50, 49, 48"/>
+  <card name="Dreadscale" rarity="Legendary" set="The Grand Tournament" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="81"/>
+  <card name="Eydis Darkbane" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="70, 70, 70, 72, 70, 70, 70, 70, 70"/>
+  <card name="Fencing Coach" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="41, 25, 42, 40, 34, 41, 39, 35, 21"/>
+  <card name="Fjola Lightbane" rarity="Legendary" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="70, 70, 70, 71, 70, 70, 70, 70, 70"/>
+  <card name="Ice Rager" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="49, 49, 49, 49, 46, 49, 49, 49, 49"/>
+  <card name="Light's Champion" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="56, 56, 56, 56, 56, 56, 56, 53, 56"/>
+  <card name="Master of Ceremonies" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="37, 37, 37, 37, 37, 37, 40, 37, 37"/>
+  <card name="Orgrimmar Aspirant" rarity="Common" set="The Grand Tournament" playerClass="Warrior" cost="3" type="Minion" weight="5" tierScore="57"/>
+  <card name="Saboteur" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="64, 64, 64, 64, 64, 64, 64, 64, 64"/>
+  <card name="Shadowfiend" rarity="Epic" set="The Grand Tournament" playerClass="Priest" cost="3" type="Minion" weight="5" tierScore="49"/>
+  <card name="Shady Dealer" rarity="Rare" set="The Grand Tournament" playerClass="Rogue" cost="3" type="Minion" weight="5" tierScore="62"/>
+  <card name="Silent Knight" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="55, 55, 55, 59, 55, 55, 55, 55, 55"/>
+  <card name="Silver Hand Regent" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="61, 55, 64, 65, 57, 59, 60, 58, 55"/>
+  <card name="Spellslinger" rarity="Common" set="The Grand Tournament" playerClass="Mage" cost="3" type="Minion" weight="5" tierScore="63"/>
+  <card name="Stablemaster" rarity="Epic" set="The Grand Tournament" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="52"/>
+  <card name="Tuskarr Totemic" rarity="Common" set="The Grand Tournament" playerClass="Shaman" cost="3" type="Minion" weight="5" tierScore="59"/>
+  <card name="Warhorse Trainer" rarity="Common" set="The Grand Tournament" playerClass="Paladin" cost="3" type="Minion" weight="5" tierScore="52"/>
+  <card name="Argent Lance" rarity="Rare" set="The Grand Tournament" playerClass="Paladin" cost="2" type="Weapon" weight="5" tierScore="74"/>
+  <card name="Ancestral Knowledge" rarity="Common" set="The Grand Tournament" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="51"/>
+  <card name="Bear Trap" rarity="Common" set="The Grand Tournament" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="69"/>
+  <card name="Bolster" rarity="Common" set="The Grand Tournament" playerClass="Warrior" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Confuse" rarity="Epic" set="The Grand Tournament" playerClass="Priest" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Convert" rarity="Rare" set="The Grand Tournament" playerClass="Priest" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Demonfuse" rarity="Common" set="The Grand Tournament" playerClass="Warlock" cost="2" type="Spell" weight="5" tierScore="24"/>
+  <card name="Lock and Load" rarity="Epic" set="The Grand Tournament" playerClass="Hunter" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Alexstrasza's Champion" rarity="Rare" set="The Grand Tournament" playerClass="Warrior" cost="2" type="Minion" weight="5" tierScore="58"/>
+  <card name="Argent Watchman" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="37, 29, 39, 42, 30, 38, 40, 29, 29"/>
+  <card name="Boneguard Lieutenant" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="60, 57, 62, 61, 60, 61, 60, 60, 57"/>
+  <card name="Cutpurse" rarity="Rare" set="The Grand Tournament" playerClass="Rogue" cost="2" type="Minion" weight="5" tierScore="53"/>
+  <card name="Darnassus Aspirant" rarity="Rare" set="The Grand Tournament" playerClass="Druid" cost="2" type="Minion" weight="5" tierScore="85"/>
+  <card name="Druid of the Saber" rarity="Common" set="The Grand Tournament" playerClass="Druid" cost="2" type="Minion" weight="5" tierScore="73"/>
+  <card name="Fallen Hero" rarity="Rare" set="The Grand Tournament" playerClass="Mage" cost="2" type="Minion" weight="5" tierScore="73"/>
+  <card name="Flame Juggler" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="74, 78, 74, 75, 78, 72, 77, 78, 77"/>
+  <card name="Garrison Commander" rarity="Epic" set="The Grand Tournament" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="58, 58, 64, 59, 57, 57, 59, 59, 57"/>
+  <card name="King's Elekk" rarity="Common" set="The Grand Tournament" playerClass="Hunter" cost="2" type="Minion" weight="5" tierScore="73"/>
+  <card name="Lance Carrier" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="51, 51, 51, 54, 51, 51, 56, 54, 51"/>
+  <card name="Sparring Partner" rarity="Rare" set="The Grand Tournament" playerClass="Warrior" cost="2" type="Minion" weight="5" tierScore="59"/>
+  <card name="Tiny Knight of Evil" rarity="Rare" set="The Grand Tournament" playerClass="Warlock" cost="2" type="Minion" weight="5" tierScore="57"/>
+  <card name="Totem Golem" rarity="Common" set="The Grand Tournament" playerClass="Shaman" cost="2" type="Minion" weight="5" tierScore="76"/>
+  <card name="Undercity Valiant" rarity="Common" set="The Grand Tournament" playerClass="Rogue" cost="2" type="Minion" weight="0" tierScore="0"/>
+  <card name="Wrathguard" rarity="Common" set="The Grand Tournament" playerClass="Warlock" cost="2" type="Minion" weight="5" tierScore="63"/>
+  <card name="Wyrmrest Agent" rarity="Rare" set="The Grand Tournament" playerClass="Priest" cost="2" type="Minion" weight="5" tierScore="42"/>
+  <card name="Arcane Blast" rarity="Epic" set="The Grand Tournament" playerClass="Mage" cost="1" type="Spell" weight="5" tierScore="68"/>
+  <card name="Competitive Spirit" rarity="Rare" set="The Grand Tournament" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="45"/>
+  <card name="Flash Heal" rarity="Common" set="The Grand Tournament" playerClass="Priest" cost="1" type="Spell" weight="5" tierScore="28"/>
+  <card name="Living Roots" rarity="Common" set="The Grand Tournament" playerClass="Druid" cost="1" type="Spell" weight="5" tierScore="85"/>
+  <card name="Power Word: Glory" rarity="Common" set="The Grand Tournament" playerClass="Priest" cost="1" type="Spell" weight="0" tierScore="0"/>
+  <card name="Brave Archer" rarity="Common" set="The Grand Tournament" playerClass="Hunter" cost="1" type="Minion" weight="5" tierScore="51"/>
+  <card name="Buccaneer" rarity="Common" set="The Grand Tournament" playerClass="Rogue" cost="1" type="Minion" weight="5" tierScore="75"/>
+  <card name="Gadgetzan Jouster" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="55, 56, 55, 55, 55, 55, 55, 56, 55"/>
+  <card name="Injured Kvaldir" rarity="Rare" set="The Grand Tournament" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="42, 46, 42, 42, 46, 42, 42, 46, 42"/>
+  <card name="Lowly Squire" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="52, 43, 53, 56, 42, 58, 51, 52, 40"/>
+  <card name="Tournament Attendee" rarity="Common" set="The Grand Tournament" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="44, 44, 44, 44, 40, 45, 44, 49, 44"/>
+  <card name="Anyfin Can Happen" rarity="Rare" set="League of Explorers" playerClass="Paladin" cost="10" type="Spell" weight="5" tierScore="2"/>
+  <card name="Arch-Thief Rafaam" rarity="Legendary" set="League of Explorers" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="79, 75, 79, 79, 79, 79, 79, 79, 79"/>
+  <card name="Fossilized Devilsaur" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="50, 49, 50, 50, 53, 50, 50, 46, 50"/>
+  <card name="Everyfin is Awesome" rarity="Rare" set="League of Explorers" playerClass="Shaman" cost="7" type="Spell" weight="5" tierScore="50"/>
+  <card name="Obsidian Destroyer" rarity="Common" set="League of Explorers" playerClass="Warrior" cost="7" type="Minion" weight="5" tierScore="105"/>
+  <card name="Entomb" rarity="Common" set="League of Explorers" playerClass="Priest" cost="6" type="Spell" weight="5" tierScore="65"/>
+  <card name="Reno Jackson" rarity="Legendary" set="League of Explorers" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="51, 51, 51, 51, 51, 54, 51, 61, 51"/>
+  <card name="Wobbling Runts" rarity="Rare" set="League of Explorers" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="52, 42, 54, 52, 52, 52, 52, 51, 52"/>
+  <card name="Excavated Evil" rarity="Rare" set="League of Explorers" playerClass="Priest" cost="5" type="Spell" weight="5" tierScore="78"/>
+  <card name="Anubisath Sentinel" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="49, 46, 49, 52, 49, 49, 52, 52, 49"/>
+  <card name="Djinni of Zephyrs" rarity="Epic" set="League of Explorers" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="58, 57, 57, 60, 59, 57, 58, 57, 57"/>
+  <card name="Ethereal Conjurer" rarity="Common" set="League of Explorers" playerClass="Mage" cost="5" type="Minion" weight="5" tierScore="82"/>
+  <card name="Naga Sea Witch" rarity="Epic" set="League of Explorers" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="50, 35, 40, 40, 40, 40, 40, 38, 40"/>
+  <card name="Summoning Stone" rarity="Rare" set="League of Explorers" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="17, 14, 19, 15, 15, 16, 12, 12, 12"/>
+  <card name="Ancient Shade" rarity="Rare" set="League of Explorers" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="50, 54, 50, 50, 50, 53, 50, 44, 50"/>
+  <card name="Animated Armor" rarity="Rare" set="League of Explorers" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="49"/>
+  <card name="Eerie Statue" rarity="Rare" set="League of Explorers" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="9, 9, 9, 9, 9, 9, 9, 9, 9"/>
+  <card name="Elise Starseeker" rarity="Legendary" set="League of Explorers" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="50, 50, 50, 50, 50, 50, 50, 50, 50"/>
+  <card name="Gorillabot A-3" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="51, 48, 51, 50, 50, 51, 50, 49, 49"/>
+  <card name="Jungle Moonkin" rarity="Rare" set="League of Explorers" playerClass="Druid" cost="4" type="Minion" weight="5" tierScore="51"/>
+  <card name="Keeper of Uldaman" rarity="Common" set="League of Explorers" playerClass="Paladin" cost="4" type="Minion" weight="5" tierScore="98"/>
+  <card name="Rumbling Elemental" rarity="Common" set="League of Explorers" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="60"/>
+  <card name="Tomb Pillager" rarity="Common" set="League of Explorers" playerClass="Rogue" cost="4" type="Minion" weight="5" tierScore="75"/>
+  <card name="Tomb Spider" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="66, 71, 62, 62, 62, 62, 62, 55, 64"/>
+  <card name="Forgotten Torch" rarity="Common" set="League of Explorers" playerClass="Mage" cost="3" type="Spell" weight="0" tierScore="0"/>
+  <card name="Brann Bronzebeard" rarity="Legendary" set="League of Explorers" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="48, 48, 48, 48, 48, 48, 48, 48, 48"/>
+  <card name="Desert Camel" rarity="Common" set="League of Explorers" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="50"/>
+  <card name="Fierce Monkey" rarity="Common" set="League of Explorers" playerClass="Warrior" cost="3" type="Minion" weight="5" tierScore="82"/>
+  <card name="Mounted Raptor" rarity="Common" set="League of Explorers" playerClass="Druid" cost="3" type="Minion" weight="5" tierScore="78"/>
+  <card name="Unearthed Raptor" rarity="Rare" set="League of Explorers" playerClass="Rogue" cost="3" type="Minion" weight="5" tierScore="69"/>
+  <card name="Curse of Rafaam" rarity="Common" set="League of Explorers" playerClass="Warlock" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Dart Trap" rarity="Common" set="League of Explorers" playerClass="Hunter" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Explorer's Hat" rarity="Rare" set="League of Explorers" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="40"/>
+  <card name="Dark Peddler" rarity="Common" set="League of Explorers" playerClass="Warlock" cost="2" type="Minion" weight="5" tierScore="108"/>
+  <card name="Huge Toad" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="68, 69, 65, 65, 65, 65, 65, 65, 65"/>
+  <card name="Jeweled Scarab" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="56, 62, 57, 64, 57, 57, 60, 53, 56"/>
+  <card name="Museum Curator" rarity="Common" set="League of Explorers" playerClass="Priest" cost="2" type="Minion" weight="5" tierScore="79"/>
+  <card name="Cursed Blade" rarity="Rare" set="League of Explorers" playerClass="Warrior" cost="1" type="Weapon" weight="5" tierScore="49"/>
+  <card name="Raven Idol" rarity="Common" set="League of Explorers" playerClass="Druid" cost="1" type="Spell" weight="5" tierScore="66"/>
+  <card name="Sacred Trial" rarity="Common" set="League of Explorers" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="24"/>
+  <card name="Pit Snake" rarity="Common" set="League of Explorers" playerClass="Rogue" cost="1" type="Minion" weight="5" tierScore="60"/>
+  <card name="Reliquary Seeker" rarity="Rare" set="League of Explorers" playerClass="Warlock" cost="1" type="Minion" weight="0" tierScore="0"/>
+  <card name="Sir Finley Mrrgglton" rarity="Legendary" set="League of Explorers" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="41, 48, 32, 38, 44, 40, 41, 40, 70"/>
+  <card name="Tunnel Trogg" rarity="Common" set="League of Explorers" playerClass="Shaman" cost="1" type="Minion" weight="5" tierScore="73"/>
+  <card name="Murloc Tinyfin" rarity="Common" set="League of Explorers" playerClass="Neutral" cost="0" type="Minion" weight="5" tierScore="26, 27, 26, 26, 22, 31, 26, 29, 25"/>
+  <card name="DOOM!" rarity="Epic" set="Whispers of the Old Gods" playerClass="Warlock" cost="10" type="Spell" weight="5" tierScore="74"/>
+  <card name="C'Thun" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="10" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Deathwing, Dragonlord" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="47, 45, 47, 47, 47, 47, 47, 44, 47"/>
+  <card name="Faceless Behemoth" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="39, 33, 39, 39, 39, 39, 39, 31, 39"/>
+  <card name="N'Zoth, the Corruptor" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="44, 44, 44, 44, 44, 44, 44, 44, 44"/>
+  <card name="Yogg-Saron, Hope's End" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="31, 31, 31, 31, 31, 31, 31, 31, 31"/>
+  <card name="Y'Shaarj, Rage Unbound" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="10" type="Minion" weight="5" tierScore="81, 75, 81, 81, 82, 81, 81, 74, 81"/>
+  <card name="Call of the Wild" rarity="Epic" set="Whispers of the Old Gods" playerClass="Hunter" cost="9" type="Spell" weight="5" tierScore="115"/>
+  <card name="Blade of C'Thun" rarity="Epic" set="Whispers of the Old Gods" playerClass="Rogue" cost="9" type="Minion" weight="0" tierScore="0"/>
+  <card name="Blood of The Ancient One" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="48, 43, 48, 48, 49, 48, 48, 40, 48"/>
+  <card name="Soggoth the Slitherer" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="9" type="Minion" weight="5" tierScore="70, 66, 70, 69, 67, 71, 70, 70, 70"/>
+  <card name="Anomalus" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Mage" cost="8" type="Minion" weight="5" tierScore="49"/>
+  <card name="Doomcaller" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="8" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Eldritch Horror" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="52, 51, 52, 52, 52, 52, 52, 50, 52"/>
+  <card name="Giant Sand Worm" rarity="Epic" set="Whispers of the Old Gods" playerClass="Hunter" cost="8" type="Minion" weight="5" tierScore="69"/>
+  <card name="Ragnaros, Lightlord" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Paladin" cost="8" type="Minion" weight="5" tierScore="90"/>
+  <card name="The Boogeymonster" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="47, 47, 47, 47, 48, 47, 47, 47, 47"/>
+  <card name="Wisps of the Old Gods" rarity="Epic" set="Whispers of the Old Gods" playerClass="Druid" cost="7" type="Spell" weight="5" tierScore="47"/>
+  <card name="Ancient Shieldbearer" rarity="Rare" set="Whispers of the Old Gods" playerClass="Warrior" cost="7" type="Minion" weight="0" tierScore="0"/>
+  <card name="Bog Creeper" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="88, 83, 88, 88, 93, 91, 88, 90, 88"/>
+  <card name="Cho'gall" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Warlock" cost="7" type="Minion" weight="5" tierScore="56"/>
+  <card name="Grotesque Dragonhawk" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="24, 24, 23, 23, 23, 23, 23, 23, 23"/>
+  <card name="Hogger, Doom of Elwynn" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="82, 81, 84, 82, 84, 82, 82, 82, 82"/>
+  <card name="Malkorok" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Warrior" cost="7" type="Minion" weight="5" tierScore="87"/>
+  <card name="Twin Emperor Vek'lor" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="7" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Thistle Tea" rarity="Rare" set="Whispers of the Old Gods" playerClass="Rogue" cost="6" type="Spell" weight="5" tierScore="43"/>
+  <card name="Ancient Harbinger" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="41, 41, 41, 41, 41, 41, 41, 41, 41"/>
+  <card name="Corrupted Seer" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="67, 58, 67, 63, 71, 65, 63, 59, 72"/>
+  <card name="Dark Arakkoa" rarity="Common" set="Whispers of the Old Gods" playerClass="Druid" cost="6" type="Minion" weight="0" tierScore="0"/>
+  <card name="Faceless Summoner" rarity="Common" set="Whispers of the Old Gods" playerClass="Mage" cost="6" type="Minion" weight="0" tierScore="0"/>
+  <card name="Herald Volazj" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Priest" cost="6" type="Minion" weight="5" tierScore="61"/>
+  <card name="Mukla, Tyrant of the Vale" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="69, 70, 69, 70, 69, 70, 70, 69, 69"/>
+  <card name="Nerubian Prophet" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="74, 74, 74, 74, 74, 78, 74, 73, 74"/>
+  <card name="Scaled Nightmare" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="60, 59, 60, 60, 64, 60, 60, 60, 60"/>
+  <card name="Skeram Cultist" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="6" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Thing from Below" rarity="Rare" set="Whispers of the Old Gods" playerClass="Shaman" cost="6" type="Minion" weight="5" tierScore="69"/>
+  <card name="Hammer of Twilight" rarity="Epic" set="Whispers of the Old Gods" playerClass="Shaman" cost="5" type="Weapon" weight="5" tierScore="88"/>
+  <card name="Tentacles for Arms" rarity="Epic" set="Whispers of the Old Gods" playerClass="Warrior" cost="5" type="Weapon" weight="5" tierScore="28"/>
+  <card name="Cabalist's Tome" rarity="Epic" set="Whispers of the Old Gods" playerClass="Mage" cost="5" type="Spell" weight="5" tierScore="63"/>
+  <card name="Power Word: Tentacles" rarity="Common" set="Whispers of the Old Gods" playerClass="Priest" cost="5" type="Spell" weight="5" tierScore="55"/>
+  <card name="Stand Against Darkness" rarity="Common" set="Whispers of the Old Gods" playerClass="Paladin" cost="5" type="Spell" weight="5" tierScore="58"/>
+  <card name="Corrupted Healbot" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="63, 56, 63, 63, 71, 63, 63, 63, 63"/>
+  <card name="Crazed Worshipper" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="5" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Cult Apothecary" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="44, 43, 48, 44, 41, 50, 45, 51, 43"/>
+  <card name="Darkshire Alchemist" rarity="Common" set="Whispers of the Old Gods" playerClass="Priest" cost="5" type="Minion" weight="5" tierScore="75"/>
+  <card name="Darkspeaker" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="50, 50, 50, 54, 50, 50, 54, 51, 50"/>
+  <card name="Hallazeal the Ascended" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Shaman" cost="5" type="Minion" weight="5" tierScore="60"/>
+  <card name="Princess Huhuran" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Hunter" cost="5" type="Minion" weight="5" tierScore="69"/>
+  <card name="Psych-o-Tron" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="68, 68, 68, 68, 68, 70, 68, 70, 68"/>
+  <card name="Servant of Yogg-Saron" rarity="Rare" set="Whispers of the Old Gods" playerClass="Mage" cost="5" type="Minion" weight="5" tierScore="52"/>
+  <card name="Shadowcaster" rarity="Epic" set="Whispers of the Old Gods" playerClass="Rogue" cost="5" type="Minion" weight="5" tierScore="57"/>
+  <card name="Twilight Darkmender" rarity="Rare" set="Whispers of the Old Gods" playerClass="Priest" cost="5" type="Minion" weight="0" tierScore="0"/>
+  <card name="Usher of Souls" rarity="Common" set="Whispers of the Old Gods" playerClass="Warlock" cost="5" type="Minion" weight="0" tierScore="0"/>
+  <card name="Validated Doomsayer" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="45, 45, 46, 49, 45, 55, 45, 47, 45"/>
+  <card name="Shadow Word: Horror" rarity="Rare" set="Whispers of the Old Gods" playerClass="Priest" cost="4" type="Spell" weight="5" tierScore="46"/>
+  <card name="Aberrant Berserker" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="61, 61, 63, 61, 61, 61, 61, 61, 61"/>
+  <card name="Blackwater Pirate" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="30, 32, 30, 35, 30, 32, 32, 30, 38"/>
+  <card name="Bloodhoof Brave" rarity="Common" set="Whispers of the Old Gods" playerClass="Warrior" cost="4" type="Minion" weight="5" tierScore="76"/>
+  <card name="C'Thun's Chosen" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Cyclopian Horror" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="66, 66, 66, 66, 66, 67, 66, 68, 66"/>
+  <card name="Demented Frostcaller" rarity="Rare" set="Whispers of the Old Gods" playerClass="Mage" cost="4" type="Minion" weight="5" tierScore="22"/>
+  <card name="Eater of Secrets" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="22, 22, 22, 22, 22, 22, 22, 22, 22"/>
+  <card name="Evolved Kobold" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="14, 14, 14, 14, 14, 14, 16, 14, 14"/>
+  <card name="Faceless Shambler" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="54, 52, 54, 54, 55, 54, 54, 54, 54"/>
+  <card name="Fandral Staghelm" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Druid" cost="4" type="Minion" weight="5" tierScore="62"/>
+  <card name="Flamewreathed Faceless" rarity="Common" set="Whispers of the Old Gods" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="96"/>
+  <card name="Hooded Acolyte" rarity="Common" set="Whispers of the Old Gods" playerClass="Priest" cost="4" type="Minion" weight="0" tierScore="0"/>
+  <card name="Infested Tauren" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="54, 53, 54, 54, 53, 56, 54, 57, 53"/>
+  <card name="Infested Wolf" rarity="Rare" set="Whispers of the Old Gods" playerClass="Hunter" cost="4" type="Minion" weight="5" tierScore="78"/>
+  <card name="Klaxxi Amber-Weaver" rarity="Rare" set="Whispers of the Old Gods" playerClass="Druid" cost="4" type="Minion" weight="0" tierScore="0"/>
+  <card name="Master of Evolution" rarity="Rare" set="Whispers of the Old Gods" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="84"/>
+  <card name="Midnight Drake" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="42, 42, 42, 42, 42, 42, 42, 45, 42"/>
+  <card name="Mire Keeper" rarity="Rare" set="Whispers of the Old Gods" playerClass="Druid" cost="4" type="Minion" weight="5" tierScore="75"/>
+  <card name="Polluted Hoarder" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="58, 59, 59, 58, 56, 59, 58, 52, 59"/>
+  <card name="Shifting Shade" rarity="Rare" set="Whispers of the Old Gods" playerClass="Priest" cost="4" type="Minion" weight="5" tierScore="69"/>
+  <card name="Southsea Squidface" rarity="Common" set="Whispers of the Old Gods" playerClass="Rogue" cost="4" type="Minion" weight="5" tierScore="65"/>
+  <card name="Twilight Summoner" rarity="Epic" set="Whispers of the Old Gods" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="64, 60, 64, 64, 65, 64, 64, 64, 64"/>
+  <card name="Xaril, Poisoned Mind" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Rogue" cost="4" type="Minion" weight="5" tierScore="63"/>
+  <card name="Rallying Blade" rarity="Rare" set="Whispers of the Old Gods" playerClass="Paladin" cost="3" type="Weapon" weight="5" tierScore="86"/>
+  <card name="Blood Warriors" rarity="Epic" set="Whispers of the Old Gods" playerClass="Warrior" cost="3" type="Spell" weight="5" tierScore="37"/>
+  <card name="Feral Rage" rarity="Common" set="Whispers of the Old Gods" playerClass="Druid" cost="3" type="Spell" weight="5" tierScore="50"/>
+  <card name="Infest" rarity="Rare" set="Whispers of the Old Gods" playerClass="Hunter" cost="3" type="Spell" weight="5" tierScore="38"/>
+  <card name="Shadow Strike" rarity="Common" set="Whispers of the Old Gods" playerClass="Rogue" cost="3" type="Spell" weight="5" tierScore="79"/>
+  <card name="Spreading Madness" rarity="Rare" set="Whispers of the Old Gods" playerClass="Warlock" cost="3" type="Spell" weight="5" tierScore="28"/>
+  <card name="Addled Grizzly" rarity="Rare" set="Whispers of the Old Gods" playerClass="Druid" cost="3" type="Minion" weight="5" tierScore="51"/>
+  <card name="Am'gam Rager" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="12, 12, 12, 12, 12, 12, 12, 12, 12"/>
+  <card name="Bloodsail Cultist" rarity="Rare" set="Whispers of the Old Gods" playerClass="Warrior" cost="3" type="Minion" weight="5" tierScore="69"/>
+  <card name="Carrion Grub" rarity="Common" set="Whispers of the Old Gods" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="62"/>
+  <card name="Darkshire Councilman" rarity="Common" set="Whispers of the Old Gods" playerClass="Warlock" cost="3" type="Minion" weight="5" tierScore="82"/>
+  <card name="Disciple of C'Thun" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="3" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Forlorn Stalker" rarity="Rare" set="Whispers of the Old Gods" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="47"/>
+  <card name="Ravaging Ghoul" rarity="Common" set="Whispers of the Old Gods" playerClass="Warrior" cost="3" type="Minion" weight="5" tierScore="100"/>
+  <card name="Silithid Swarmer" rarity="Rare" set="Whispers of the Old Gods" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="47, 10, 3, 12, 3, 68, 11, 3, 25"/>
+  <card name="Spawn of N'Zoth" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="41, 41, 41, 45, 40, 41, 46, 46, 41"/>
+  <card name="Squirming Tentacle" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="53, 53, 53, 53, 53, 54, 53, 54, 53"/>
+  <card name="Steward of Darkshire" rarity="Rare" set="Whispers of the Old Gods" playerClass="Paladin" cost="3" type="Minion" weight="5" tierScore="69"/>
+  <card name="Twilight Elder" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="3" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Twilight Flamecaller" rarity="Common" set="Whispers of the Old Gods" playerClass="Mage" cost="3" type="Minion" weight="5" tierScore="82"/>
+  <card name="A Light in the Darkness" rarity="Common" set="Whispers of the Old Gods" playerClass="Paladin" cost="2" type="Spell" weight="5" tierScore="52"/>
+  <card name="Embrace the Shadow" rarity="Epic" set="Whispers of the Old Gods" playerClass="Priest" cost="2" type="Spell" weight="5" tierScore="14"/>
+  <card name="Mark of Y'Shaarj" rarity="Common" set="Whispers of the Old Gods" playerClass="Druid" cost="2" type="Spell" weight="5" tierScore="75"/>
+  <card name="Renounce Darkness" rarity="Epic" set="Whispers of the Old Gods" playerClass="Warlock" cost="2" type="Spell" weight="5" tierScore="15"/>
+  <card name="Shatter" rarity="Common" set="Whispers of the Old Gods" playerClass="Mage" cost="2" type="Spell" weight="5" tierScore="8"/>
+  <card name="Stormcrack" rarity="Common" set="Whispers of the Old Gods" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="67"/>
+  <card name="Beckoner of Evil" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="2" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Bilefin Tidehunter" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="63, 64, 63, 64, 63, 64, 64, 65, 64"/>
+  <card name="Cult Sorcerer" rarity="Rare" set="Whispers of the Old Gods" playerClass="Mage" cost="2" type="Minion" weight="0" tierScore="0"/>
+  <card name="Darkshire Librarian" rarity="Rare" set="Whispers of the Old Gods" playerClass="Warlock" cost="2" type="Minion" weight="5" tierScore="38"/>
+  <card name="Duskboar" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="27, 28, 26, 26, 26, 26, 26, 26, 26"/>
+  <card name="Eternal Sentinel" rarity="Epic" set="Whispers of the Old Gods" playerClass="Shaman" cost="2" type="Minion" weight="5" tierScore="57"/>
+  <card name="Nat, the Darkfisher" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="18, 18, 18, 18, 18, 18, 18, 18, 18"/>
+  <card name="Twilight Geomancer" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="2" type="Minion" weight="0" tierScore="0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <card name="Twisted Worgen" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="48, 49, 48, 48, 48, 48, 48, 48, 47"/>
+  <card name="Undercity Huckster" rarity="Rare" set="Whispers of the Old Gods" playerClass="Rogue" cost="2" type="Minion" weight="5" tierScore="74"/>
+  <card name="Blood To Ichor" rarity="Rare" set="Whispers of the Old Gods" playerClass="Warrior" cost="1" type="Spell" weight="5" tierScore="69"/>
+  <card name="Divine Strength" rarity="Common" set="Whispers of the Old Gods" playerClass="Paladin" cost="1" type="Spell" weight="5" tierScore="57"/>
+  <card name="Evolve" rarity="Rare" set="Whispers of the Old Gods" playerClass="Shaman" cost="1" type="Spell" weight="5" tierScore="63"/>
+  <card name="Journey Below" rarity="Rare" set="Whispers of the Old Gods" playerClass="Rogue" cost="1" type="Spell" weight="5" tierScore="61"/>
+  <card name="On the Hunt" rarity="Common" set="Whispers of the Old Gods" playerClass="Hunter" cost="1" type="Spell" weight="5" tierScore="68"/>
+  <card name="Primal Fusion" rarity="Common" set="Whispers of the Old Gods" playerClass="Shaman" cost="1" type="Spell" weight="5" tierScore="46"/>
+  <card name="Bladed Cultist" rarity="Common" set="Whispers of the Old Gods" playerClass="Rogue" cost="1" type="Minion" weight="5" tierScore="66"/>
+  <card name="Fiery Bat" rarity="Common" set="Whispers of the Old Gods" playerClass="Hunter" cost="1" type="Minion" weight="5" tierScore="64"/>
+  <card name="Forbidden Ancient" rarity="Epic" set="Whispers of the Old Gods" playerClass="Druid" cost="1" type="Minion" weight="5" tierScore="64"/>
+  <card name="N'Zoth's First Mate" rarity="Common" set="Whispers of the Old Gods" playerClass="Warrior" cost="1" type="Minion" weight="5" tierScore="88"/>
+  <card name="Possessed Villager" rarity="Common" set="Whispers of the Old Gods" playerClass="Warlock" cost="1" type="Minion" weight="5" tierScore="73"/>
+  <card name="Selfless Hero" rarity="Rare" set="Whispers of the Old Gods" playerClass="Paladin" cost="1" type="Minion" weight="5" tierScore="64"/>
+  <card name="Shifter Zerus" rarity="Legendary" set="Whispers of the Old Gods" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="50, 50, 50, 50, 50, 50, 50, 50, 50"/>
+  <card name="Tentacle of N'Zoth" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="28, 28, 35, 26, 28, 28, 28, 28, 30"/>
+  <card name="Vilefin Inquisitor" rarity="Epic" set="Whispers of the Old Gods" playerClass="Paladin" cost="1" type="Minion" weight="5" tierScore="44"/>
+  <card name="Zealous Initiate" rarity="Common" set="Whispers of the Old Gods" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="46, 47, 46, 46, 45, 46, 46, 47, 44"/>
+  <card name="Forbidden Flame" rarity="Epic" set="Whispers of the Old Gods" playerClass="Mage" cost="0" type="Spell" weight="5" tierScore="70"/>
+  <card name="Forbidden Healing" rarity="Epic" set="Whispers of the Old Gods" playerClass="Paladin" cost="0" type="Spell" weight="5" tierScore="25"/>
+  <card name="Forbidden Ritual" rarity="Rare" set="Whispers of the Old Gods" playerClass="Warlock" cost="0" type="Spell" weight="5" tierScore="62"/>
+  <card name="Forbidden Shaping" rarity="Epic" set="Whispers of the Old Gods" playerClass="Priest" cost="0" type="Spell" weight="5" tierScore="75"/>
+  <card name="Arcane Giant" rarity="Epic" set="One night in Karazan" playerClass="Neutral" cost="12" type="Minion" weight="5" tierScore="27, 26, 29, 26, 26, 27, 26, 26, 26"/>
+  <card name="Medivh, the Guardian" rarity="Legendary" set="One night in Karazan" playerClass="Neutral" cost="8" type="Minion" weight="5" tierScore="72, 70, 75, 71, 71, 71, 70, 69, 69"/>
+  <card name="Firelands Portal" rarity="Common" set="One night in Karazan" playerClass="Mage" cost="7" type="Spell" weight="5" tierScore="115"/>
+  <card name="The Curator" rarity="Legendary" set="One night in Karazan" playerClass="Neutral" cost="7" type="Minion" weight="5" tierScore="74, 74, 71, 71, 71, 72, 71, 69, 71"/>
+  <card name="Moonglade Portal" rarity="Rare" set="One night in Karazan" playerClass="Druid" cost="6" type="Spell" weight="5" tierScore="68"/>
+  <card name="Book Wyrm" rarity="Rare" set="One night in Karazan" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="31, 31, 31, 31, 31, 31, 31, 31, 31"/>
+  <card name="Ivory Knight" rarity="Rare" set="One night in Karazan" playerClass="Paladin" cost="6" type="Minion" weight="5" tierScore="65"/>
+  <card name="Menagerie Warden" rarity="Common" set="One night in Karazan" playerClass="Druid" cost="6" type="Minion" weight="5" tierScore="71"/>
+  <card name="Moat Lurker" rarity="Rare" set="One night in Karazan" playerClass="Neutral" cost="6" type="Minion" weight="5" tierScore="56, 56, 56, 56, 56, 58, 56, 56, 56"/>
+  <card name="Fool's Bane" rarity="Common" set="One night in Karazan" playerClass="Warrior" cost="5" type="Weapon" weight="5" tierScore="82"/>
+  <card name="Ironforge Portal" rarity="Common" set="One night in Karazan" playerClass="Warrior" cost="5" type="Spell" weight="5" tierScore="29"/>
+  <card name="Kara Kazham!" rarity="Common" set="One night in Karazan" playerClass="Warlock" cost="5" type="Spell" weight="5" tierScore="71"/>
+  <card name="Avian Watcher" rarity="Rare" set="One night in Karazan" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="44, 47, 48, 47, 44, 44, 44, 44, 44"/>
+  <card name="Ethereal Peddler" rarity="Rare" set="One night in Karazan" playerClass="Rogue" cost="5" type="Minion" weight="5" tierScore="69"/>
+  <card name="Menagerie Magician" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="55, 55, 47, 47, 47, 47, 47, 47, 47"/>
+  <card name="Onyx Bishop" rarity="Rare" set="One night in Karazan" playerClass="Priest" cost="5" type="Minion" weight="5" tierScore="77"/>
+  <card name="Prince Malchezaar" rarity="Legendary" set="One night in Karazan" playerClass="Neutral" cost="5" type="Minion" weight="5" tierScore="61, 61, 61, 61, 61, 61, 61, 61, 61"/>
+  <card name="Silvermoon Portal" rarity="Common" set="One night in Karazan" playerClass="Paladin" cost="4" type="Spell" weight="5" tierScore="66"/>
+  <card name="Arcanosmith" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="49, 48, 49, 49, 49, 50, 49, 50, 49"/>
+  <card name="Barnes" rarity="Legendary" set="One night in Karazan" playerClass="Neutral" cost="4" type="Minion" weight="5" tierScore="58, 58, 57, 58, 58, 58, 58, 58, 58"/>
+  <card name="Priest of the Feast" rarity="Common" set="One night in Karazan" playerClass="Priest" cost="4" type="Minion" weight="5" tierScore="73"/>
+  <card name="Wicked Witchdoctor" rarity="Common" set="One night in Karazan" playerClass="Shaman" cost="4" type="Minion" weight="5" tierScore="44"/>
+  <card name="Protect the King!" rarity="Rare" set="One night in Karazan" playerClass="Warrior" cost="3" type="Spell" weight="5" tierScore="40"/>
+  <card name="Cloaked Huntress" rarity="Common" set="One night in Karazan" playerClass="Hunter" cost="3" type="Minion" weight="5" tierScore="70"/>
+  <card name="Deadly Fork" rarity="Common" set="One night in Karazan" playerClass="Rogue" cost="3" type="Minion" weight="5" tierScore="56"/>
+  <card name="Moroes" rarity="Legendary" set="One night in Karazan" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="45, 45, 45, 45, 45, 45, 45, 44, 45"/>
+  <card name="Nightbane Templar" rarity="Common" set="One night in Karazan" playerClass="Paladin" cost="3" type="Minion" weight="5" tierScore="18"/>
+  <card name="Pantry Spider" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="41, 40, 36, 37, 36, 36, 36, 36, 36"/>
+  <card name="Silverware Golem" rarity="Rare" set="One night in Karazan" playerClass="Warlock" cost="3" type="Minion" weight="5" tierScore="50"/>
+  <card name="Violet Illusionist" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="60, 57, 55, 58, 55, 65, 62, 60, 60"/>
+  <card name="Zoobot" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="3" type="Minion" weight="5" tierScore="62, 62, 52, 52, 52, 52, 52, 52, 52"/>
+  <card name="Cat Trick" rarity="Rare" set="One night in Karazan" playerClass="Hunter" cost="2" type="Spell" weight="5" tierScore="62"/>
+  <card name="Maelstrom Portal" rarity="Rare" set="One night in Karazan" playerClass="Shaman" cost="2" type="Spell" weight="5" tierScore="96"/>
+  <card name="Purify" rarity="Common" set="One night in Karazan" playerClass="Priest" cost="2" type="Spell" weight="0" tierScore="0"/>
+  <card name="Kindly Grandmother" rarity="Common" set="One night in Karazan" playerClass="Hunter" cost="2" type="Minion" weight="5" tierScore="84"/>
+  <card name="Medivh's Valet" rarity="Common" set="One night in Karazan" playerClass="Mage" cost="2" type="Minion" weight="5" tierScore="61"/>
+  <card name="Netherspite Historian" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="26, 26, 26, 26, 26, 26, 26, 26, 26"/>
+  <card name="Pompous Thespian" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="2" type="Minion" weight="5" tierScore="55, 54, 55, 55, 55, 58, 55, 58, 55"/>
+  <card name="Spirit Claws" rarity="Common" set="One night in Karazan" playerClass="Shaman" cost="2" type="Weapon" weight="5" tierScore="86"/>
+  <card name="Arcane Anomaly" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="44, 44, 45, 43, 43, 45, 43, 45, 43"/>
+  <card name="Babbling Book" rarity="Rare" set="One night in Karazan" playerClass="Mage" cost="1" type="Minion" weight="5" tierScore="80"/>
+  <card name="Enchanted Raven" rarity="Common" set="One night in Karazan" playerClass="Druid" cost="1" type="Minion" weight="5" tierScore="74"/>
+  <card name="Malchezaar's Imp" rarity="Common" set="One night in Karazan" playerClass="Warlock" cost="1" type="Minion" weight="5" tierScore="53"/>
+  <card name="Runic Egg" rarity="Common" set="One night in Karazan" playerClass="Neutral" cost="1" type="Minion" weight="5" tierScore="30, 29, 29, 33, 29, 29, 30, 29, 29"/>
+  <card name="Swashburglar" rarity="Common" set="One night in Karazan" playerClass="Rogue" cost="1" type="Minion" weight="5" tierScore="82"/>
+  <card name="Kun the Forgotten King" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Druid" cost="10" type="Minion" weight="9" tierScore="82"/>
+  <card name="Krul the Unshackled" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="9" type="Minion" weight="9" tierScore="36"/>
+  <card name="Mayor Noggenfogger" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="9" type="Minion" weight="10" tierScore="6, 6, 6, 6, 6, 6, 6, 6, 6"/>
+  <card name="Greater Arcane Missiles" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Mage" cost="7" type="Spell" weight="9" tierScore="43"/>
+  <card name="Abyssal Enforcer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="7" type="Minion" weight="9" tierScore="93"/>
+  <card name="Don Han'Cho" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Hunter, Paladin, Warrior" cost="7" type="Minion" weight="9" tierScore="84, 84, 84"/>
+  <card name="Grimestreet Protector" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="7" type="Minion" weight="9" tierScore="91"/>
+  <card name="Inkmaster Solia" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Mage" cost="7" type="Minion" weight="9" tierScore="55"/>
+  <card name="Jade Chieftain" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="7" type="Minion" weight="9" tierScore="54"/>
+  <card name="Dragonfire Potion" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Priest" cost="6" type="Spell" weight="9" tierScore="88"/>
+  <card name="Felfire Potion" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="6" type="Spell" weight="9" tierScore="81"/>
+  <card name="Ancient of Blossoms" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="57, 52, 57, 57, 57, 59, 57, 59, 57"/>
+  <card name="Aya Blackpaw" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Druid, Rogue, Shaman" cost="6" type="Minion" weight="9" tierScore="60, 69, 69"/>
+  <card name="Big-Time Racketeer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="70, 67, 69, 69, 70, 69, 69, 66, 70"/>
+  <card name="Defias Cleaner" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="69, 67, 69, 69, 69, 69, 69, 65, 69"/>
+  <card name="Fight Promoter" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="42, 34, 42, 43, 46, 42, 42, 30, 42"/>
+  <card name="Jade Behemoth" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Druid" cost="6" type="Minion" weight="9" tierScore="56"/>
+  <card name="Kabal Crystal Runner" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Mage" cost="6" type="Minion" weight="9" tierScore="52"/>
+  <card name="Kabal Trafficker" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="6" type="Minion" weight="9" tierScore="77"/>
+  <card name="Leatherclad Hogleader" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="58, 59, 58, 58, 59, 58, 58, 55, 58"/>
+  <card name="Luckydo Buccaneer" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="6" type="Minion" weight="9" tierScore="55"/>
+  <card name="Madam Goya" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="35, 35, 35, 38, 35, 35, 38, 35, 35"/>
+  <card name="Wind-up Burglebot" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="59, 59, 59, 59, 59, 59, 59, 42, 59"/>
+  <card name="Wrathion" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="6" type="Minion" weight="10" tierScore="74, 74, 74, 74, 74, 74, 74, 72, 74"/>
+  <card name="Piranha Launcher" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="5" type="Weapon" weight="9" tierScore="73"/>
+  <card name="Lunar Visions" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Druid" cost="5" type="Spell" weight="9" tierScore="61"/>
+  <card name="Alley Armorsmith" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="5" type="Minion" weight="9" tierScore="52"/>
+  <card name="Bomb Squad" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="76, 72, 76, 76, 81, 73, 76, 60, 81"/>
+  <card name="Burgly Bully" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="58, 58, 58, 58, 58, 59, 58, 58, 58"/>
+  <card name="Cryomancer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Mage" cost="5" type="Minion" weight="9" tierScore="62"/>
+  <card name="Doppelgangster" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="72, 75, 72, 80, 65, 72, 72, 72, 75"/>
+  <card name="Drakonid Operative" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Priest" cost="5" type="Minion" weight="9" tierScore="73"/>
+  <card name="Finja, the Flying Star" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="20, 20, 20, 22, 20, 20, 20, 20, 20"/>
+  <card name="Grimestreet Enforcer" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="5" type="Minion" weight="9" tierScore="77"/>
+  <card name="Grook Fu Master" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="48, 48, 48, 50, 47, 48, 48, 48, 48"/>
+  <card name="Kabal Songstealer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Priest" cost="5" type="Minion" weight="9" tierScore="71"/>
+  <card name="Knuckles" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="5" type="Minion" weight="9" tierScore="77"/>
+  <card name="Lotus Agents" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Druid, Rogue, Shaman" cost="5" type="Minion" weight="9" tierScore="80, 80, 80"/>
+  <card name="Lotus Assassin" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="5" type="Minion" weight="9" tierScore="78"/>
+  <card name="Raza the Chained" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Priest" cost="5" type="Minion" weight="9" tierScore="72"/>
+  <card name="Red Mana Wyrm" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="36, 36, 42, 36, 36, 37, 36, 36, 36"/>
+  <card name="Second-Rate Bruiser" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="71, 68, 71, 71, 71, 72, 71, 70, 71"/>
+  <card name="Spiked Hogrider" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="64, 64, 64, 64, 64, 64, 64, 64, 64"/>
+  <card name="Streetwise Investigator" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="5" type="Minion" weight="10" tierScore="58, 58, 58, 58, 59, 58, 58, 58, 58"/>
+  <card name="Virmen Sensei" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Druid" cost="5" type="Minion" weight="9" tierScore="60"/>
+  <card name="White Eyes" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="5" type="Minion" weight="9" tierScore="76"/>
+  <card name="Brass Knuckles" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="4" type="Weapon" weight="9" tierScore="73"/>
+  <card name="Blastcrystal Potion" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="4" type="Spell" weight="9" tierScore="92"/>
+  <card name="Call in the Finishers" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="4" type="Spell" weight="9" tierScore="54"/>
+  <card name="Greater Healing Potion" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Priest" cost="4" type="Spell" weight="9" tierScore="14"/>
+  <card name="Jade Lightning" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="4" type="Spell" weight="9" tierScore="66"/>
+  <card name="Backroom Bouncer" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="53, 53, 53, 55, 52, 53, 53, 55, 53"/>
+  <card name="Crystalweaver" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="4" type="Minion" weight="9" tierScore="69"/>
+  <card name="Daring Reporter" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="63, 63, 63, 63, 63, 63, 63, 63, 63"/>
+  <card name="Dispatch Kodo" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="4" type="Minion" weight="9" tierScore="81"/>
+  <card name="Genzo, the Shark" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="71, 75, 71, 71, 71, 75, 71, 70, 71"/>
+  <card name="Grimy Gadgeteer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="4" type="Minion" weight="9" tierScore="74"/>
+  <card name="Hozen Healer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="67, 65, 65, 65, 67, 65, 65, 65, 65"/>
+  <card name="Jade Spirit" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Druid, Rogue, Shaman" cost="4" type="Minion" weight="9" tierScore="45, 50, 50"/>
+  <card name="Jinyu Waterspeaker" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="4" type="Minion" weight="9" tierScore="75"/>
+  <card name="Kabal Chemist" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Mage, Priest, Warlock" cost="4" type="Minion" weight="9" tierScore="77, 77, 73"/>
+  <card name="Kazakus" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Mage, Priest, Warlock" cost="4" type="Minion" weight="9" tierScore="87, 87, 87"/>
+  <card name="Kooky Chemist" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="51, 51, 51, 51, 53, 51, 52, 53, 51"/>
+  <card name="Lotus Illusionist" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="4" type="Minion" weight="9" tierScore="74"/>
+  <card name="Naga Corsair" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="54, 57, 54, 59, 54, 71, 59, 54, 62"/>
+  <card name="Seadevil Stinger" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="4" type="Minion" weight="9" tierScore="28"/>
+  <card name="Shadow Sensei" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="4" type="Minion" weight="9" tierScore="57"/>
+  <card name="Tanaris Hogchopper" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="50, 50, 50, 50, 50, 50, 50, 50, 50"/>
+  <card name="Worgen Greaser" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="4" type="Minion" weight="10" tierScore="41, 47, 41, 41, 39, 41, 41, 41, 41"/>
+  <card name="Bloodfury Potion" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="3" type="Spell" weight="9" tierScore="57"/>
+  <card name="Jade Blossom" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Druid" cost="3" type="Spell" weight="9" tierScore="21"/>
+  <card name="Pilfered Power" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Druid" cost="3" type="Spell" weight="9" tierScore="19"/>
+  <card name="Potion of Polymorph" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Mage" cost="3" type="Spell" weight="9" tierScore="54"/>
+  <card name="Small-Time Recruits" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="3" type="Spell" weight="9" tierScore="17"/>
+  <card name="Volcanic Potion" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Mage" cost="3" type="Spell" weight="9" tierScore="78"/>
+  <card name="Auctionmaster Beardo" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="67, 67, 67, 67, 67, 67, 67, 67, 67"/>
+  <card name="Backstreet Leper" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="9, 15, 9, 9, 9, 9, 9, 9, 9"/>
+  <card name="Blubber Baron" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="32, 32, 32, 32, 32, 33, 32, 33, 33"/>
+  <card name="Celestial Dreamer" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Druid" cost="3" type="Minion" weight="9" tierScore="69"/>
+  <card name="Fel Orc Soulfiend" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="52, 52, 52, 52, 56, 52, 52, 52, 52"/>
+  <card name="Grimestreet Pawnbroker" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="3" type="Minion" weight="9" tierScore="69"/>
+  <card name="Grimestreet Smuggler" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Hunter, Paladin, Warrior" cost="3" type="Minion" weight="9" tierScore="54, 54, 54"/>
+  <card name="Hired Gun" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="55, 55, 55, 55, 55, 56, 55, 56, 55"/>
+  <card name="Kabal Courier" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Mage, Priest, Warlock" cost="3" type="Minion" weight="9" tierScore="79, 79, 73"/>
+  <card name="Kabal Talonpriest" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Priest" cost="3" type="Minion" weight="9" tierScore="105"/>
+  <card name="Manic Soulcaster" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Mage" cost="3" type="Minion" weight="9" tierScore="64"/>
+  <card name="Rat Pack" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="3" type="Minion" weight="9" tierScore="92"/>
+  <card name="Sergeant Sally" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="36, 37, 36, 44, 36, 36, 36, 39, 37"/>
+  <card name="Shadow Rager" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="3" type="Minion" weight="9" tierScore="54"/>
+  <card name="Shaku, the Collector" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="3" type="Minion" weight="9" tierScore="69"/>
+  <card name="Shaky Zipgunner" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="3" type="Minion" weight="9" tierScore="77"/>
+  <card name="Street Trickster" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="6, 6, 8, 7, 6, 6, 6, 13, 5"/>
+  <card name="Toxic Sewer Ooze" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="3" type="Minion" weight="10" tierScore="58, 58, 58, 58, 58, 58, 58, 58, 58"/>
+  <card name="Unlicensed Apothecary" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Warlock" cost="3" type="Minion" weight="9" tierScore="67"/>
+  <card name="Wickerflame Burnbristle" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="3" type="Minion" weight="9" tierScore="67"/>
+  <card name="Jade Claws" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="2" type="Weapon" weight="9" tierScore="82"/>
+  <card name="Devolve" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="2" type="Spell" weight="9" tierScore="33"/>
+  <card name="Hidden Cache" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="2" type="Spell" weight="9" tierScore="40"/>
+  <card name="Jade Shuriken" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="2" type="Spell" weight="9" tierScore="64"/>
+  <card name="Sleep with the Fishes" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="2" type="Spell" weight="9" tierScore="45"/>
+  <card name="Stolen Goods" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="2" type="Spell" weight="9" tierScore="24"/>
+  <card name="Blowgill Sniper" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="2" type="Minion" weight="10" tierScore="53, 56, 53, 55, 55, 53, 56, 57, 55"/>
+  <card name="Dirty Rat" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="2" type="Minion" weight="10" tierScore="13, 13, 13, 13, 15, 15, 13, 15, 13"/>
+  <card name="Friendly Bartender" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="2" type="Minion" weight="10" tierScore="57, 57, 57, 57, 57, 57, 57, 58, 57"/>
+  <card name="Gadgetzan Ferryman" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="2" type="Minion" weight="9" tierScore="59"/>
+  <card name="Gadgetzan Socialite" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="2" type="Minion" weight="10" tierScore="54, 51, 54, 54, 57, 57, 54, 59, 54"/>
+  <card name="Grimestreet Informant" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Hunter, Paladin, Warrior" cost="2" type="Minion" weight="9" tierScore="83, 83, 83"/>
+  <card name="Grimestreet Outfitter" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="2" type="Minion" weight="9" tierScore="62"/>
+  <card name="Hobart Grapplehammer" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="2" type="Minion" weight="9" tierScore="35"/>
+  <card name="Jade Swarmer" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="2" type="Minion" weight="9" tierScore="50"/>
+  <card name="Mana Geode" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Priest" cost="2" type="Minion" weight="9" tierScore="71"/>
+  <card name="Public Defender" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="2" type="Minion" weight="9" tierScore="23"/>
+  <card name="Trogg Beastrager" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="2" type="Minion" weight="9" tierScore="63"/>
+  <card name="Finders Keepers" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Shaman" cost="1" type="Spell" weight="9" tierScore="81"/>
+  <card name="Getaway Kodo" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="1" type="Spell" weight="9" tierScore="42"/>
+  <card name="I Know a Guy" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Warrior" cost="1" type="Spell" weight="9" tierScore="55"/>
+  <card name="Jade Idol" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Druid" cost="1" type="Spell" weight="9" tierScore="16"/>
+  <card name="Mark of the Lotus" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Druid" cost="1" type="Spell" weight="9" tierScore="63"/>
+  <card name="Pint-Size Potion" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Priest" cost="1" type="Spell" weight="9" tierScore="71"/>
+  <card name="Potion of Madness" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Priest" cost="1" type="Spell" weight="9" tierScore="85"/>
+  <card name="Smuggler's Crate" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="1" type="Spell" weight="9" tierScore="43"/>
+  <card name="Smuggler's Run" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="1" type="Spell" weight="9" tierScore="67"/>
+  <card name="Alleycat" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Hunter" cost="1" type="Minion" weight="9" tierScore="72"/>
+  <card name="Grimscale Chum" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="1" type="Minion" weight="9" tierScore="42"/>
+  <card name="Kabal Lackey" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Mage" cost="1" type="Minion" weight="9" tierScore="45"/>
+  <card name="Meanstreet Marshal" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Paladin" cost="1" type="Minion" weight="9" tierScore="42"/>
+  <card name="Mistress of Mixtures" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="1" type="Minion" weight="10" tierScore="74, 65, 74, 75, 75, 74, 74, 79, 70"/>
+  <card name="Patches the Pirate" rarity="Legendary" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="1" type="Minion" weight="10" tierScore="43, 43, 43, 43, 43, 51, 43, 44, 48"/>
+  <card name="Small-Time Buccaneer" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="1" type="Minion" weight="10" tierScore="30, 40, 30, 40, 30, 75, 32, 33, 43"/>
+  <card name="Weasel Tunneler" rarity="Epic" set="Mean streets of Gadgetzan" playerClass="Neutral" cost="1" type="Minion" weight="10" tierScore="17, 18, 16, 16, 16, 16, 16, 16, 16"/>
+  <card name="Counterfeit Coin" rarity="Rare" set="Mean streets of Gadgetzan" playerClass="Rogue" cost="0" type="Spell" weight="9" tierScore="48"/>
+  <card name="Freezing Potion" rarity="Common" set="Mean streets of Gadgetzan" playerClass="Mage" cost="0" type="Spell" weight="9" tierScore="37"/>
+</cards>
