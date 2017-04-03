@@ -1,4 +1,6 @@
 *.swf
+*.air
+*.exe
 
 # Windows image file caches
 Thumbs.db
