@@ -115,7 +115,7 @@
 			<hoverElement x="312" y="41" w="120" h="21" />
 		</hoverMenu>
 		<hoverMenu name="Modify multiple cards" info="The update columns button applies the values in the input fields to the right to all the currently selected cards.">
-			<hoverElement x="592" y="41" w="120" h="21" />
+			<hoverElement x="592" y="41" w="582" h="21" />
 		</hoverMenu>
 		<hoverMenu name="Modify individual values" info="You can also change individual values of tier scores or weights.">
 			<hoverElement x="722" y="106" w="458" h="576" />
@@ -140,7 +140,7 @@
 		<hoverMenu name="Input filename" info="Typing in the input field updates the file list to show the files that partially match the input with black text at the top and the ones that do not match it at the bottom with grey text.">
 			<hoverElement x="443" y="250" w="300" h="21" />
 		</hoverMenu>
-		<hoverMenu name="Filename match" info="If a file matches the input exactly it is shown with green text for loading (to signify that the file exists)and red text for saving (to signify that the file already exists and will get overwritten).">
+		<hoverMenu name="Filename match" info="If a file matches the input exactly it is shown with green text for loading (to signify that the file exists) and red text for saving (to signify that the file already exists and will get overwritten).">
 			<hoverElement x="463" y="309" w="260" h="19" />
 		</hoverMenu>
 		<hoverMenu name="File click" info="Clicking on any of the filenames will put its value in the input field.">
@@ -152,7 +152,7 @@
 		<hoverMenu name="Open folder" info="Click this button to open the folder where the drop rates/tier scores are stored.">
 			<hoverElement x="752" y="288" w="56" h="21" />
 		</hoverMenu>
-		<hoverMenu name="Screen action" info="The text at the top of the screen shows what action will be performed (quot;Save tier listquot; etc.).">
+		<hoverMenu name="Screen action" info="The text at the top of the screen shows what action will be performed (&quot;Save tier list&quot; etc.).">
 			<hoverElement x="445" y="190" w="296" h="45" />
 		</hoverMenu>
 		<hoverMenu name="Help screen" info="Click on this button to open the help screen.">

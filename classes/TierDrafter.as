@@ -1749,7 +1749,14 @@ package
 			var rarityInd:int;
 			var i:int;
 			var chosenRarities:Array = new Array();
+			var rarityCount:Array = new Array();
+			var rarityDrafts:Array = new Array();
+			rarityDrafts[0] = new Array();
+			rarityDrafts[1] = new Array();
+			rarityDrafts[2] = new Array();
+			rarityDrafts[3] = new Array();
 			var chosenRarityIndex:int;
+			rarityWeights = new Array();
 
 			switch(settingsObject.data.duplicates)
 			{
@@ -1766,44 +1773,54 @@ package
 				case NO_DUPLICATES:
 				for(i = 0; i < raritiesArr.length; i++)
 				{
-					chosenRarities[i] = 0;
+					rarityCount[i] = 0;
 				}
 				for(i = 0; i < 30; i++)
 				{
 					rarityWeights = rarityScreen.getRarityWeights(i);
 					raritiesWeightSum = calculateWeightSum(rarityWeights);
 					rarityInd = getRandomWeightedIndex(rarityWeights, raritiesWeightSum);
-					chosenRarities[rarityInd]++;
+					rarityCount[rarityInd]++;
+					chosenRarities.push(rarityInd);
+				}
+				for(i = 0; i < rarityCount.length; i++)
+				{
+					// we do this only if a rarity has been chosen at least once or we get an error
+					if(rarityCount[i] > 0)
+					{
+						rarityDrafts[i] = rarityDrafts[i].concat(chooseXCards(rarityCount[i]*3, classesArr[classIndex], raritiesArr[i]));
+					}
 				}
 				for(i = 0; i < chosenRarities.length; i++)
 				{
-					// we do this only if a rarity has been chosen at least once or we get an error
-					if(chosenRarities[i] > 0)
-					{
-						draftArr = draftArr.concat(chooseXCards(chosenRarities[i]*3, classesArr[classIndex], raritiesArr[i]));
-					}
+					draftArr = draftArr.concat(rarityDrafts[chosenRarities[i]].splice(0, 3));
 				}
 				break;
 
 				case CONSTRUCTED_DUPLICATES:
 				for(i = 0; i < raritiesArr.length; i++)
 				{
-					chosenRarities[i] = 0;
+					rarityCount[i] = 0;
 				}
 				for(i = 0; i < 30; i++)
 				{
 					rarityWeights = rarityScreen.getRarityWeights(i);
 					raritiesWeightSum = calculateWeightSum(rarityWeights);
 					rarityInd = getRandomWeightedIndex(rarityWeights, raritiesWeightSum);
-					chosenRarities[rarityInd]++;
+					rarityCount[rarityInd]++;
+					chosenRarities.push(rarityInd);
+				}
+				for(i = 0; i < rarityCount.length; i++)
+				{
+					// we do this only if a rarity has been chosen at least once or we get an error
+					if(rarityCount[i] > 0)
+					{
+						rarityDrafts[i] = rarityDrafts[i].concat(chooseXCards(rarityCount[i]*3, classesArr[classIndex], raritiesArr[i], true));
+					}
 				}
 				for(i = 0; i < chosenRarities.length; i++)
 				{
-					// we do this only if a rarity has been chosen at least once or we get an error
-					if(chosenRarities[i] > 0)
-					{
-						draftArr = draftArr.concat(chooseXCards(chosenRarities[i]*3, classesArr[classIndex], raritiesArr[i], true));
-					}
+					draftArr = draftArr.concat(rarityDrafts[chosenRarities[i]].splice(0, 3));
 				}
 				break;
 			}
@@ -1825,10 +1842,11 @@ package
 		{
 			var randIndex:int = Math.floor(Math.random()*(draftArr.length/3));
 			var choicesArr:Array = new Array();
-			choicesArr.push(draftArr[randIndex*3]);
-			choicesArr.push(draftArr[randIndex*3+1]);
-			choicesArr.push(draftArr[randIndex*3+2]);
-			draftArr.splice(randIndex*3, 3);
+			choicesArr = choicesArr.concat(draftArr.splice(0, 3));
+			//choicesArr.push(draftArr[0]);
+			//choicesArr.push(draftArr[1]);
+			//choicesArr.push(draftArr[2]);
+			//draftArr.splice(randIndex*3, 3);
 			
 			generateImprovedDraftCards(choicesArr);
 		}
