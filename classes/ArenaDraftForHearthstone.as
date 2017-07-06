@@ -316,6 +316,8 @@ package
 			aboutScreen.hpwnAboutTxt.addEventListener(TextEvent.LINK, openLink);
 			aboutScreen.harenaAboutTxt.htmlText = "Arena tier scores from <a href=\"event:http://www.heartharena.com/\">heartharena.com</a>";
 			aboutScreen.harenaAboutTxt.addEventListener(TextEvent.LINK, openLink);
+			aboutScreen.gitAboutTxt.htmlText = "<a href=\"event:https://github.com/carpenterx/arena-draft-for-hearthstone/\">Github source</a>";
+			aboutScreen.gitAboutTxt.addEventListener(TextEvent.LINK, openLink);
 
 			dataLoader.addEventListener(Event.COMPLETE, dataLoaded);
 			dataLoader.load(new URLRequest(dataFile.url));
