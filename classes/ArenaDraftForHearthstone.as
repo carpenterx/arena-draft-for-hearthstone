@@ -19,6 +19,8 @@ package
 	import flash.events.IOErrorEvent;
 	import flash.events.KeyboardEvent;
 	import flash.ui.Keyboard;
+	import flash.net.navigateToURL;
+	import flash.events.TextEvent;
 
 	import HearthstoneLargeCard;
 	import HearthstoneCardData;
@@ -307,6 +309,13 @@ package
 			setScreenVisibility(cardListScreen, false);
 			setScreenVisibility(ioScreen, false);
 			setScreenVisibility(helpScreen, false);
+
+			aboutScreen.devAboutTxt.htmlText = "Developed by <a href=\"event:https://github.com/carpenterx\">carpenter</a>";
+			aboutScreen.devAboutTxt.addEventListener(TextEvent.LINK, openLink);
+			aboutScreen.hpwnAboutTxt.htmlText = "Card images and data from <a href=\"event:http://www.hearthpwn.com/\">hearthpwn.com</a>";
+			aboutScreen.hpwnAboutTxt.addEventListener(TextEvent.LINK, openLink);
+			aboutScreen.harenaAboutTxt.htmlText = "Arena tier scores from <a href=\"event:http://www.heartharena.com/\">heartharena.com</a>";
+			aboutScreen.harenaAboutTxt.addEventListener(TextEvent.LINK, openLink);
 
 			dataLoader.addEventListener(Event.COMPLETE, dataLoaded);
 			dataLoader.load(new URLRequest(dataFile.url));
@@ -2210,6 +2219,11 @@ package
 			}
 
 			displayCardListComponents(cardDataArr);
+		}
+
+		private function openLink(e:TextEvent):void
+		{
+			navigateToURL(new URLRequest(e.text), "_blank");
 		}
 	}
 }
