@@ -106,7 +106,7 @@ package
 
 		private var settingsObj:Object = new Object();
 		private const REGULAR_DRAFT:String = "Regular draft";
-		private const TIER_DRAFT:String = "Tier draft";
+		private const TIER_SORT:String = "Tier sort";
 		private const NO_DUPLICATES:String = "No duplicates"; // Not allowed
 		private const ALLOW_DUPLICATES:String = "Allow duplicates"; // Allowed
 		private const CONSTRUCTED_DUPLICATES:String = "Constructed"; // Constructed
@@ -174,7 +174,7 @@ package
 		private var screenTabs:Array = new Array();
 
 		private var regularDraftTT:AdvancedTooltip;
-		private var tierDraftTT:AdvancedTooltip;
+		private var tierSortDraftTT:AdvancedTooltip;
 		private var noDuplicatesTT:AdvancedTooltip;
 		private var allowDuplicatesTT:AdvancedTooltip;
 		private var constructedDuplicatesTT:AdvancedTooltip;
@@ -442,7 +442,7 @@ package
 		private function generateSettingsTooltips():void
 		{
 			regularDraftTT = new AdvancedTooltip("The normal type of draft.\rCards are chosen based\ron rarity", 148, 60);
-			tierDraftTT = new AdvancedTooltip("The cards are sorted by\rtheir tier score instead\rof rarity", 156, 60);
+			tierSortDraftTT = new AdvancedTooltip("The cards are sorted by\rtheir tier score instead\rof rarity", 156, 60);
 
 			noDuplicatesTT = new AdvancedTooltip("A card will appear in a\rdraft only once", 136, 42);
 			allowDuplicatesTT = new AdvancedTooltip("A card will never be\rremoved from the card\rpool no matter how\rmany times it is drafted", 146, 76);
@@ -454,8 +454,8 @@ package
 
 			regularDraftTT.x = 520;
 			regularDraftTT.y = 208;
-			tierDraftTT.x = 710;
-			tierDraftTT.y = 208;
+			tierSortDraftTT.x = 710;
+			tierSortDraftTT.y = 208;
 
 			noDuplicatesTT.x = 520;
 			noDuplicatesTT.y = 304;
@@ -472,7 +472,7 @@ package
 			randomClassTT.y = 392;
 
 			ttHolder.addChild(regularDraftTT);
-			ttHolder.addChild(tierDraftTT);
+			ttHolder.addChild(tierSortDraftTT);
 			ttHolder.addChild(noDuplicatesTT);
 			ttHolder.addChild(allowDuplicatesTT);
 			ttHolder.addChild(constructedDuplicatesTT);
@@ -481,7 +481,7 @@ package
 			ttHolder.addChild(randomClassTT);
 
 			regularDraftTT.visible = false;
-			tierDraftTT.visible = false;
+			tierSortDraftTT.visible = false;
 			noDuplicatesTT.visible = false;
 			allowDuplicatesTT.visible = false;
 			constructedDuplicatesTT.visible = false;
@@ -1418,13 +1418,13 @@ package
 
 			radioInd++;
 
-			radio = new RadioGaga(TIER_DRAFT, settingIsOnOrOff(TIER_DRAFT, settingsObject.data.draftType));
+			radio = new RadioGaga(TIER_SORT, settingIsOnOrOff(TIER_SORT, settingsObject.data.draftType));
 			radio.x = radioXPos[radioInd];
 			radio.y = radioYPos[radioInd];
 			draftTypeRadioGroup.addChild(radio);
 			radio.addEventListener(MouseEvent.CLICK, selectDraftType);
 
-			tooltipBtn = new TooltipButton(tierDraftTT);
+			tooltipBtn = new TooltipButton(tierSortDraftTT);
 			tooltipBtn.x = radioHelpXPos[radioInd];
 			tooltipBtn.y = radioYPos[radioInd];
 			tooltipBtn.addEventListener(MouseEvent.MOUSE_OVER, showSettingsTooltip);
@@ -1857,7 +1857,7 @@ package
 				case REGULAR_DRAFT:
 				break;
 
-				case TIER_DRAFT:
+				case TIER_SORT:
 				draftArr.sort(tierScoreSort);
 				break;
 			}
