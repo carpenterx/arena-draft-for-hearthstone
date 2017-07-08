@@ -21,6 +21,7 @@ package
 	import flash.ui.Keyboard;
 	import flash.net.navigateToURL;
 	import flash.events.TextEvent;
+	import flash.text.StyleSheet;
 
 	import HearthstoneLargeCard;
 	import HearthstoneCardData;
@@ -309,6 +310,21 @@ package
 			setScreenVisibility(cardListScreen, false);
 			setScreenVisibility(ioScreen, false);
 			setScreenVisibility(helpScreen, false);
+
+			var style:StyleSheet = new StyleSheet();
+
+			var hover:Object = new Object();
+			hover.color = "#2482CD";
+			var link:Object = new Object();
+			link.textDecoration= "underline";
+			 
+			style.setStyle("a:link", link);
+			style.setStyle("a:hover", hover);
+			 
+			aboutScreen.devAboutTxt.styleSheet = style;
+			aboutScreen.hpwnAboutTxt.styleSheet = style;
+			aboutScreen.harenaAboutTxt.styleSheet = style;
+			aboutScreen.gitAboutTxt.styleSheet = style;
 
 			aboutScreen.devAboutTxt.htmlText = "Developed by <a href=\"event:https://github.com/carpenterx\">carpenter</a>";
 			aboutScreen.devAboutTxt.addEventListener(TextEvent.LINK, openLink);
